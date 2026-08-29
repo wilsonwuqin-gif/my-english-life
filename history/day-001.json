@@ -1,0 +1,79 @@
+{
+ "day_n": 0,
+ "day": 1,
+ "scene_zh": "酒店入住",
+ "round": 1,
+ "focus": "报预订、出示证件、问早餐与退房时间",
+ "sentences": [
+  [
+   "I have a reservation under the name Wang.",
+   "我用王这个名字做了预订。"
+  ],
+  [
+   "Here is my passport.",
+   "这是我的护照。"
+  ],
+  [
+   "Is breakfast included?",
+   "早餐包含在内吗？"
+  ],
+  [
+   "What time is check-out?",
+   "退房是几点？"
+  ],
+  [
+   "What time is breakfast served?",
+   "早餐几点供应？"
+  ],
+  [
+   "Can I get a late check-out?",
+   "我可以晚一点退房吗？"
+  ],
+  [
+   "Could I have a receipt, please?",
+   "能给我一张收据吗？"
+  ]
+ ],
+ "words": [
+  [
+   "reservation",
+   "/ˌrezərˈveɪʃn/",
+   "预订"
+  ],
+  [
+   "passport",
+   "/ˈpɑːspɔːt/",
+   "护照"
+  ],
+  [
+   "included",
+   "/ɪnˈkluːdɪd/",
+   "包含在内的"
+  ],
+  [
+   "check-out",
+   "/tʃek aʊt/",
+   "退房"
+  ],
+  [
+   "breakfast",
+   "/ˈbrekfəst/",
+   "早餐"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "late check-out",
+   "/leɪt tʃek aʊt/",
+   "延迟退房"
+  ],
+  [
+   "under the name",
+   "/ˈʌndər ðə neɪm/",
+   "以…的名字"
+  ]
+ ]
+}
