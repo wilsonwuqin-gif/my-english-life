@@ -1,0 +1,2162 @@
+[
+ {
+  "day": 1,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 1,
+  "focus": "报预订、出示证件、问早餐与退房时间"
+ },
+ {
+  "day": 2,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 1,
+  "focus": "订位、点菜、要水、问推荐"
+ },
+ {
+  "day": 3,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 1,
+  "focus": "换登机牌、托运行李、问登机口"
+ },
+ {
+  "day": 4,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 1,
+  "focus": "加入会议、寒暄开场、说明议程"
+ },
+ {
+  "day": 5,
+  "scene_zh": "健身与运动",
+  "scene_en": "Gym and sports",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 1,
+  "focus": "办卡、问课程、问器械怎么用"
+ },
+ {
+  "day": 6,
+  "scene_zh": "电话与视频通话",
+  "scene_en": "Phone and video calls",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 1,
+  "focus": "接打电话、自报身份、请对方稍等"
+ },
+ {
+  "day": 7,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 1,
+  "focus": "天气、周末、通勤、最近在忙什么"
+ },
+ {
+  "day": 8,
+  "scene_zh": "孩子与学校",
+  "scene_en": "School and kids",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 1,
+  "focus": "问入学、接送、问老师情况"
+ },
+ {
+  "day": 9,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 1,
+  "focus": "问怎么走、多远、要多久"
+ },
+ {
+  "day": 10,
+  "scene_zh": "结账与小费",
+  "scene_en": "Paying the bill and tipping",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 1,
+  "focus": "买单、刷卡或现金、要发票"
+ },
+ {
+  "day": 11,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 2,
+  "focus": "房间有问题、要求换房"
+ },
+ {
+  "day": 12,
+  "scene_zh": "请假与调休",
+  "scene_en": "Asking for leave",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 1,
+  "focus": "请假、说明原因、交接工作"
+ },
+ {
+  "day": 13,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 2,
+  "focus": "说明忌口与过敏、要求换配料"
+ },
+ {
+  "day": 14,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 2,
+  "focus": "行李超重、随身行李规定"
+ },
+ {
+  "day": 15,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 2,
+  "focus": "听不清请对方重复或放慢"
+ },
+ {
+  "day": 16,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 1,
+  "focus": "点咖啡、选杯型冷热、堂食或带走"
+ },
+ {
+  "day": 17,
+  "scene_zh": "团建与欢送",
+  "scene_en": "Team outings and farewells",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 1,
+  "focus": "参加活动、寒暄、简短祝词"
+ },
+ {
+  "day": 18,
+  "scene_zh": "饮食禁忌与过敏",
+  "scene_en": "Dietary restrictions and allergies",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 1,
+  "focus": "说明不吃什么、过敏原、素食需求"
+ },
+ {
+  "day": 19,
+  "scene_zh": "出差安排",
+  "scene_en": "Business travel arrangements",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 1,
+  "focus": "订机票酒店、报销、行程沟通"
+ },
+ {
+  "day": 20,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 1,
+  "focus": "说目的地、确认路线、问车费"
+ },
+ {
+  "day": 21,
+  "scene_zh": "外卖与订位",
+  "scene_en": "Takeaway and reservations",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 1,
+  "focus": "电话订位、改人数、点外卖"
+ },
+ {
+  "day": 22,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 3,
+  "focus": "延迟退房、行李寄存"
+ },
+ {
+  "day": 23,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 3,
+  "focus": "菜上错了或迟迟不上、催菜"
+ },
+ {
+  "day": 24,
+  "scene_zh": "出入境与海关",
+  "scene_en": "Immigration and customs",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 1,
+  "focus": "回答访问目的、停留时间、住宿地址"
+ },
+ {
+  "day": 25,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 3,
+  "focus": "礼貌插话与打断"
+ },
+ {
+  "day": 26,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 3,
+  "focus": "选座、换座、升舱"
+ },
+ {
+  "day": 27,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 1,
+  "focus": "约午饭、聊周末、聊项目近况"
+ },
+ {
+  "day": 28,
+  "scene_zh": "商务宴请",
+  "scene_en": "Hosting a business dinner",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 1,
+  "focus": "邀请、安排座位、点菜时照顾客人"
+ },
+ {
+  "day": 29,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 1,
+  "focus": "描述症状、说明多久了、问怎么治"
+ },
+ {
+  "day": 30,
+  "scene_zh": "公共交通购票",
+  "scene_en": "Buying transit tickets",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 1,
+  "focus": "买票、问换乘、问末班车"
+ },
+ {
+  "day": 31,
+  "scene_zh": "退换货",
+  "scene_en": "Returns and exchanges",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 1,
+  "focus": "说明要退换、出示小票、问政策"
+ },
+ {
+  "day": 32,
+  "scene_zh": "租车",
+  "scene_en": "Renting a car",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 1,
+  "focus": "取车、确认车型与保险、问还车地点"
+ },
+ {
+  "day": 33,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 4,
+  "focus": "打包、分单、AA 结账"
+ },
+ {
+  "day": 34,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 4,
+  "focus": "客房服务、叫醒服务、要加毛巾和水"
+ },
+ {
+  "day": 35,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 1,
+  "focus": "问尺码颜色、试衣、问价格"
+ },
+ {
+  "day": 36,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 4,
+  "focus": "表达同意、保留与反对"
+ },
+ {
+  "day": 37,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 4,
+  "focus": "安检流程、液体与电子设备"
+ },
+ {
+  "day": 38,
+  "scene_zh": "交换联系方式",
+  "scene_en": "Exchanging contacts",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 1,
+  "focus": "要微信或邮箱、说明后续联系"
+ },
+ {
+  "day": 39,
+  "scene_zh": "超市与结账",
+  "scene_en": "Supermarket checkout",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 1,
+  "focus": "问商品在哪、自助结账、要袋子"
+ },
+ {
+  "day": 40,
+  "scene_zh": "初次见面",
+  "scene_en": "Introducing yourself",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 1,
+  "focus": "自我介绍、说职业与来处、交换称呼"
+ },
+ {
+  "day": 41,
+  "scene_zh": "航班延误与改签",
+  "scene_en": "Flight delay and rebooking",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 1,
+  "focus": "问延误原因、问改签、问补偿"
+ },
+ {
+  "day": 42,
+  "scene_zh": "理发店",
+  "scene_en": "At the barber or salon",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 1,
+  "focus": "预约、说明剪多短、洗剪吹"
+ },
+ {
+  "day": 43,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 5,
+  "focus": "看不懂菜单、问做法与分量"
+ },
+ {
+  "day": 44,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 5,
+  "focus": "早餐时间地点、餐券与自助餐"
+ },
+ {
+  "day": 45,
+  "scene_zh": "婉拒与告别",
+  "scene_en": "Declining politely and saying goodbye",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 1,
+  "focus": "拒绝邀约、告辞、约下次"
+ },
+ {
+  "day": 46,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 5,
+  "focus": "请对方展开说明、追问细节"
+ },
+ {
+  "day": 47,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 5,
+  "focus": "转机、中转时间、行李直挂"
+ },
+ {
+  "day": 48,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 2,
+  "focus": "接住话题并反问、从闲聊过渡到正事"
+ },
+ {
+  "day": 49,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 2,
+  "focus": "没听懂时请对方重复或换个说法"
+ },
+ {
+  "day": 50,
+  "scene_zh": "派对与社交场合",
+  "scene_en": "At a party or social event",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 1,
+  "focus": "加入一群人的对话、端酒寒暄"
+ },
+ {
+  "day": 51,
+  "scene_zh": "快递与邮寄",
+  "scene_en": "Shipping a parcel",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 1,
+  "focus": "寄件、填地址、问时效与费用"
+ },
+ {
+  "day": 52,
+  "scene_zh": "感谢与道歉",
+  "scene_en": "Thanks and apologies",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 1,
+  "focus": "道谢、道歉、回应别人的谢意"
+ },
+ {
+  "day": 53,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 6,
+  "focus": "点酒水饮料、续杯"
+ },
+ {
+  "day": 54,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 6,
+  "focus": "健身房泳池等设施与开放时间"
+ },
+ {
+  "day": 55,
+  "scene_zh": "银行与换汇",
+  "scene_en": "Bank and currency exchange",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 1,
+  "focus": "开户、换汇、取现、问汇率"
+ },
+ {
+  "day": 56,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 6,
+  "focus": "汇报进度、说明卡在哪里"
+ },
+ {
+  "day": 57,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 2,
+  "focus": "定制需求：少糖、换奶、加浓"
+ },
+ {
+  "day": 58,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 6,
+  "focus": "航班延误、改签与补偿"
+ },
+ {
+  "day": 59,
+  "scene_zh": "药店买药",
+  "scene_en": "At the pharmacy",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 1,
+  "focus": "买常用药、说明症状、问用法用量"
+ },
+ {
+  "day": 60,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 2,
+  "focus": "司机走错路、要求改道"
+ },
+ {
+  "day": 61,
+  "scene_zh": "租房看房",
+  "scene_en": "Renting an apartment",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 1,
+  "focus": "问租金、看房、问押金与合同期"
+ },
+ {
+  "day": 62,
+  "scene_zh": "紧急求助",
+  "scene_en": "Emergencies",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 1,
+  "focus": "报警、叫救护车、说明位置"
+ },
+ {
+  "day": 63,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 7,
+  "focus": "评价菜品、和服务员寒暄"
+ },
+ {
+  "day": 64,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 7,
+  "focus": "退房结账、核对账单、要发票"
+ },
+ {
+  "day": 65,
+  "scene_zh": "报修与投诉",
+  "scene_en": "Reporting a problem",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 1,
+  "focus": "报修、说明故障、约上门时间"
+ },
+ {
+  "day": 66,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 7,
+  "focus": "总结结论、分派待办"
+ },
+ {
+  "day": 67,
+  "scene_zh": "保险与理赔",
+  "scene_en": "Insurance and claims",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 1,
+  "focus": "问保险覆盖范围、要收据"
+ },
+ {
+  "day": 68,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 2,
+  "focus": "接住玩笑、聊工作以外的兴趣"
+ },
+ {
+  "day": 69,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 7,
+  "focus": "免税店与贵宾休息室"
+ },
+ {
+  "day": 70,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 2,
+  "focus": "描述疼痛程度与部位、问副作用"
+ },
+ {
+  "day": 71,
+  "scene_zh": "通信与网络",
+  "scene_en": "Phone plan and internet",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 1,
+  "focus": "办卡、选套餐、问流量"
+ },
+ {
+  "day": 72,
+  "scene_zh": "电话与视频通话",
+  "scene_en": "Phone and video calls",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 2,
+  "focus": "信号不好、听不清、请对方重复"
+ },
+ {
+  "day": 73,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 8,
+  "focus": "结账、小费、要发票"
+ },
+ {
+  "day": 74,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 8,
+  "focus": "委婉投诉而不失礼"
+ },
+ {
+  "day": 75,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 2,
+  "focus": "要求调货、修改尺寸、比较款式"
+ },
+ {
+  "day": 76,
+  "scene_zh": "健身与运动",
+  "scene_en": "Gym and sports",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 2,
+  "focus": "约私教、冻结会籍、退卡"
+ },
+ {
+  "day": 77,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 8,
+  "focus": "主持会议、控制时间"
+ },
+ {
+  "day": 78,
+  "scene_zh": "孩子与学校",
+  "scene_en": "School and kids",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 2,
+  "focus": "家长会沟通、说明孩子的问题"
+ },
+ {
+  "day": 79,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 8,
+  "focus": "登机广播没听懂时怎么问"
+ },
+ {
+  "day": 80,
+  "scene_zh": "初次见面",
+  "scene_en": "Introducing yourself",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 2,
+  "focus": "介绍同事给对方、串联两个陌生人"
+ },
+ {
+  "day": 81,
+  "scene_zh": "结账与小费",
+  "scene_en": "Paying the bill and tipping",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 2,
+  "focus": "账单有误、AA 分账、找零"
+ },
+ {
+  "day": 82,
+  "scene_zh": "请假与调休",
+  "scene_en": "Asking for leave",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 2,
+  "focus": "临时请假、延长假期、远程办公"
+ },
+ {
+  "day": 83,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 9,
+  "focus": "带人吃饭、照顾同伴口味"
+ },
+ {
+  "day": 84,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 9,
+  "focus": "会员积分、升级房型"
+ },
+ {
+  "day": 85,
+  "scene_zh": "团建与欢送",
+  "scene_en": "Team outings and farewells",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 2,
+  "focus": "组织活动、征询意见、协调时间"
+ },
+ {
+  "day": 86,
+  "scene_zh": "饮食禁忌与过敏",
+  "scene_en": "Dietary restrictions and allergies",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 2,
+  "focus": "详细确认成分、要求厨房处理"
+ },
+ {
+  "day": 87,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 9,
+  "focus": "把跑题的讨论拉回来"
+ },
+ {
+  "day": 88,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 3,
+  "focus": "识别何时该结束闲聊、避开敏感话题"
+ },
+ {
+  "day": 89,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 9,
+  "focus": "行李损坏或丢失的申报"
+ },
+ {
+  "day": 90,
+  "scene_zh": "出差安排",
+  "scene_en": "Business travel arrangements",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 2,
+  "focus": "行程变更、接待对方来访"
+ },
+ {
+  "day": 91,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 3,
+  "focus": "给别人指路、描述复杂路线"
+ },
+ {
+  "day": 92,
+  "scene_zh": "外卖与订位",
+  "scene_en": "Takeaway and reservations",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 2,
+  "focus": "取消或改期、漏送与投诉"
+ },
+ {
+  "day": 93,
+  "scene_zh": "出入境与海关",
+  "scene_en": "Immigration and customs",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 2,
+  "focus": "被二次问询、解释携带物品"
+ },
+ {
+  "day": 94,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 10,
+  "focus": "快餐与柜台点单"
+ },
+ {
+  "day": 95,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 10,
+  "focus": "叫车接送机、行李搬运"
+ },
+ {
+  "day": 96,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 3,
+  "focus": "常客式的简短寒暄"
+ },
+ {
+  "day": 97,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 10,
+  "focus": "线上会议：静音、共享屏幕、掉线"
+ },
+ {
+  "day": 98,
+  "scene_zh": "商务宴请",
+  "scene_en": "Hosting a business dinner",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 2,
+  "focus": "敬酒与祝词、带话题、控制节奏"
+ },
+ {
+  "day": 99,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 10,
+  "focus": "特殊物品：电池、药品、乐器"
+ },
+ {
+  "day": 100,
+  "scene_zh": "退换货",
+  "scene_en": "Returns and exchanges",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 2,
+  "focus": "过了期限、商品有瑕疵、要退款"
+ },
+ {
+  "day": 101,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 3,
+  "focus": "礼貌纠正司机、聊天与结束聊天"
+ },
+ {
+  "day": 102,
+  "scene_zh": "交换联系方式",
+  "scene_en": "Exchanging contacts",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 2,
+  "focus": "跟进邮件的开场、约下次见面"
+ },
+ {
+  "day": 103,
+  "scene_zh": "公共交通购票",
+  "scene_en": "Buying transit tickets",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 2,
+  "focus": "买错票、退改、卡片充值"
+ },
+ {
+  "day": 104,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 11,
+  "focus": "退菜与投诉"
+ },
+ {
+  "day": 105,
+  "scene_zh": "租车",
+  "scene_en": "Renting a car",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 2,
+  "focus": "车辆划痕拍照说明、加油政策、异地还车"
+ },
+ {
+  "day": 106,
+  "scene_zh": "超市与结账",
+  "scene_en": "Supermarket checkout",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 2,
+  "focus": "价格与标签不符、会员卡与优惠券"
+ },
+ {
+  "day": 107,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 11,
+  "focus": "向前台打听周边餐厅、交通与景点"
+ },
+ {
+  "day": 108,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 11,
+  "focus": "会前会后的闲聊"
+ },
+ {
+  "day": 109,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 11,
+  "focus": "值机排队与优先通道"
+ },
+ {
+  "day": 110,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 3,
+  "focus": "办公室里的分寸、避免站队"
+ },
+ {
+  "day": 111,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 3,
+  "focus": "既往病史、和医生讨论治疗方案"
+ },
+ {
+  "day": 112,
+  "scene_zh": "航班延误与改签",
+  "scene_en": "Flight delay and rebooking",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 2,
+  "focus": "错过转机、要求安排酒店"
+ },
+ {
+  "day": 113,
+  "scene_zh": "理发店",
+  "scene_en": "At the barber or salon",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 2,
+  "focus": "描述发型细节、纠正剪得不满意"
+ },
+ {
+  "day": 114,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 12,
+  "focus": "预约大桌、说明特殊需求"
+ },
+ {
+  "day": 115,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 3,
+  "focus": "还价与促销、婉拒导购推荐"
+ },
+ {
+  "day": 116,
+  "scene_zh": "婉拒与告别",
+  "scene_en": "Declining politely and saying goodbye",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 2,
+  "focus": "拒绝请求但留余地、解释原因"
+ },
+ {
+  "day": 117,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 12,
+  "focus": "续住、换房型、长住谈价"
+ },
+ {
+  "day": 118,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 12,
+  "focus": "「我回去确认一下」的多种说法"
+ },
+ {
+  "day": 119,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 12,
+  "focus": "抵达后取行李与过海关"
+ },
+ {
+  "day": 120,
+  "scene_zh": "初次见面",
+  "scene_en": "Introducing yourself",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 3,
+  "focus": "在陌生场合主动破冰、找共同话题"
+ },
+ {
+  "day": 121,
+  "scene_zh": "快递与邮寄",
+  "scene_en": "Shipping a parcel",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 2,
+  "focus": "包裹丢失或延误、报关与禁运品"
+ },
+ {
+  "day": 122,
+  "scene_zh": "派对与社交场合",
+  "scene_en": "At a party or social event",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 2,
+  "focus": "介绍自己给一群陌生人、退出一段对话"
+ },
+ {
+  "day": 123,
+  "scene_zh": "银行与换汇",
+  "scene_en": "Bank and currency exchange",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 2,
+  "focus": "卡被冻结、转账受阻、补办卡"
+ },
+ {
+  "day": 124,
+  "scene_zh": "感谢与道歉",
+  "scene_en": "Thanks and apologies",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 2,
+  "focus": "为迟到或失误正式致歉、提出补救"
+ },
+ {
+  "day": 125,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 13,
+  "focus": "订位、点菜、要水、问推荐"
+ },
+ {
+  "day": 126,
+  "scene_zh": "药店买药",
+  "scene_en": "At the pharmacy",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 2,
+  "focus": "处方药、问替代药、问过敏禁忌"
+ },
+ {
+  "day": 127,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 13,
+  "focus": "报预订、出示证件、问早餐与退房时间"
+ },
+ {
+  "day": 128,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 13,
+  "focus": "加入会议、寒暄开场、说明议程"
+ },
+ {
+  "day": 129,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 4,
+  "focus": "聊家乡、饮食与旅行"
+ },
+ {
+  "day": 130,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 13,
+  "focus": "换登机牌、托运行李、问登机口"
+ },
+ {
+  "day": 131,
+  "scene_zh": "租房看房",
+  "scene_en": "Renting an apartment",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 2,
+  "focus": "谈条件、要求维修后入住、议价"
+ },
+ {
+  "day": 132,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 4,
+  "focus": "在商场、机场、医院这类大建筑里问路"
+ },
+ {
+  "day": 133,
+  "scene_zh": "紧急求助",
+  "scene_en": "Emergencies",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 2,
+  "focus": "描述事故经过、配合询问"
+ },
+ {
+  "day": 134,
+  "scene_zh": "报修与投诉",
+  "scene_en": "Reporting a problem",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 2,
+  "focus": "多次未解决时催办、要求赔偿"
+ },
+ {
+  "day": 135,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 14,
+  "focus": "说明忌口与过敏、要求换配料"
+ },
+ {
+  "day": 136,
+  "scene_zh": "保险与理赔",
+  "scene_en": "Insurance and claims",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 2,
+  "focus": "提交理赔、补材料、查询进度"
+ },
+ {
+  "day": 137,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 4,
+  "focus": "在店里办公：问网络、插座、续杯"
+ },
+ {
+  "day": 138,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 14,
+  "focus": "房间有问题、要求换房"
+ },
+ {
+  "day": 139,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 14,
+  "focus": "听不清请对方重复或放慢"
+ },
+ {
+  "day": 140,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 14,
+  "focus": "行李超重、随身行李规定"
+ },
+ {
+  "day": 141,
+  "scene_zh": "通信与网络",
+  "scene_en": "Phone plan and internet",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 2,
+  "focus": "网络故障报修、换套餐、解约"
+ },
+ {
+  "day": 142,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 4,
+  "focus": "叫车软件沟通：定位、等候、取消"
+ },
+ {
+  "day": 143,
+  "scene_zh": "电话与视频通话",
+  "scene_en": "Phone and video calls",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 3,
+  "focus": "多方通话中插话与转达"
+ },
+ {
+  "day": 144,
+  "scene_zh": "健身与运动",
+  "scene_en": "Gym and sports",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 3,
+  "focus": "和球友运动伙伴的日常交流"
+ },
+ {
+  "day": 145,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 15,
+  "focus": "菜上错了或迟迟不上、催菜"
+ },
+ {
+  "day": 146,
+  "scene_zh": "孩子与学校",
+  "scene_en": "School and kids",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 3,
+  "focus": "和老师讨论教育方式的分歧"
+ },
+ {
+  "day": 147,
+  "scene_zh": "结账与小费",
+  "scene_en": "Paying the bill and tipping",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 3,
+  "focus": "各国小费习惯与如何自然处理"
+ },
+ {
+  "day": 148,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 15,
+  "focus": "延迟退房、行李寄存"
+ },
+ {
+  "day": 149,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 15,
+  "focus": "礼貌插话与打断"
+ },
+ {
+  "day": 150,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 15,
+  "focus": "选座、换座、升舱"
+ },
+ {
+  "day": 151,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 4,
+  "focus": "新人融入、主动搭话"
+ },
+ {
+  "day": 152,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 4,
+  "focus": "预约挂号、问诊流程、取报告"
+ },
+ {
+  "day": 153,
+  "scene_zh": "请假与调休",
+  "scene_en": "Asking for leave",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 3,
+  "focus": "谈判弹性工时与个人安排"
+ },
+ {
+  "day": 154,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 4,
+  "focus": "买鞋、配饰、正装的专门说法"
+ },
+ {
+  "day": 155,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 16,
+  "focus": "打包、分单、AA 结账"
+ },
+ {
+  "day": 156,
+  "scene_zh": "团建与欢送",
+  "scene_en": "Team outings and farewells",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 3,
+  "focus": "欢送辞与感谢辞"
+ },
+ {
+  "day": 157,
+  "scene_zh": "饮食禁忌与过敏",
+  "scene_en": "Dietary restrictions and allergies",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 3,
+  "focus": "别人请客时得体地说明忌口"
+ },
+ {
+  "day": 158,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 16,
+  "focus": "客房服务、叫醒服务、要加毛巾和水"
+ },
+ {
+  "day": 159,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 16,
+  "focus": "表达同意、保留与反对"
+ },
+ {
+  "day": 160,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 16,
+  "focus": "安检流程、液体与电子设备"
+ },
+ {
+  "day": 161,
+  "scene_zh": "初次见面",
+  "scene_en": "Introducing yourself",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 4,
+  "focus": "记不住或念错对方名字时怎么办"
+ },
+ {
+  "day": 162,
+  "scene_zh": "出差安排",
+  "scene_en": "Business travel arrangements",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 3,
+  "focus": "跨时区协调与商务礼节"
+ },
+ {
+  "day": 163,
+  "scene_zh": "外卖与订位",
+  "scene_en": "Takeaway and reservations",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 3,
+  "focus": "为团队订餐时统筹需求与预算"
+ },
+ {
+  "day": 164,
+  "scene_zh": "出入境与海关",
+  "scene_en": "Immigration and customs",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 3,
+  "focus": "面对怀疑性提问时清楚而不紧张地说明"
+ },
+ {
+  "day": 165,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 17,
+  "focus": "看不懂菜单、问做法与分量"
+ },
+ {
+  "day": 166,
+  "scene_zh": "退换货",
+  "scene_en": "Returns and exchanges",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 3,
+  "focus": "对方拒绝时如何升级沟通"
+ },
+ {
+  "day": 167,
+  "scene_zh": "商务宴请",
+  "scene_en": "Hosting a business dinner",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 3,
+  "focus": "跨文化饮食禁忌、买单的时机"
+ },
+ {
+  "day": 168,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 17,
+  "focus": "早餐时间地点、餐券与自助餐"
+ },
+ {
+  "day": 169,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 17,
+  "focus": "请对方展开说明、追问细节"
+ },
+ {
+  "day": 170,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 5,
+  "focus": "聊体育、影视与爱好"
+ },
+ {
+  "day": 171,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 17,
+  "focus": "转机、中转时间、行李直挂"
+ },
+ {
+  "day": 172,
+  "scene_zh": "交换联系方式",
+  "scene_en": "Exchanging contacts",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 3,
+  "focus": "婉转地不给联系方式"
+ },
+ {
+  "day": 173,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 5,
+  "focus": "问洗手间、电梯、出口这类应急表达"
+ },
+ {
+  "day": 174,
+  "scene_zh": "超市与结账",
+  "scene_en": "Supermarket checkout",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 3,
+  "focus": "和收银员的日常寒暄"
+ },
+ {
+  "day": 175,
+  "scene_zh": "公共交通购票",
+  "scene_en": "Buying transit tickets",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 3,
+  "focus": "向陌生人搭话问路的开场与致谢"
+ },
+ {
+  "day": 176,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 18,
+  "focus": "点酒水饮料、续杯"
+ },
+ {
+  "day": 177,
+  "scene_zh": "租车",
+  "scene_en": "Renting a car",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 3,
+  "focus": "事故或故障时与租车公司交涉"
+ },
+ {
+  "day": 178,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 5,
+  "focus": "点错了或做错了怎么说"
+ },
+ {
+  "day": 179,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 18,
+  "focus": "健身房泳池等设施与开放时间"
+ },
+ {
+  "day": 180,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 18,
+  "focus": "汇报进度、说明卡在哪里"
+ },
+ {
+  "day": 181,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 18,
+  "focus": "航班延误、改签与补偿"
+ },
+ {
+  "day": 182,
+  "scene_zh": "理发店",
+  "scene_en": "At the barber or salon",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 3,
+  "focus": "和理发师闲聊"
+ },
+ {
+  "day": 183,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 5,
+  "focus": "行李、儿童座椅等特殊需求"
+ },
+ {
+  "day": 184,
+  "scene_zh": "婉拒与告别",
+  "scene_en": "Declining politely and saying goodbye",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 3,
+  "focus": "长期关系里的婉拒艺术"
+ },
+ {
+  "day": 185,
+  "scene_zh": "航班延误与改签",
+  "scene_en": "Flight delay and rebooking",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 3,
+  "focus": "坚持诉求但保持礼貌"
+ },
+ {
+  "day": 186,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 19,
+  "focus": "评价菜品、和服务员寒暄"
+ },
+ {
+  "day": 187,
+  "scene_zh": "快递与邮寄",
+  "scene_en": "Shipping a parcel",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 3,
+  "focus": "跨境寄送的沟通与索赔"
+ },
+ {
+  "day": 188,
+  "scene_zh": "派对与社交场合",
+  "scene_en": "At a party or social event",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 3,
+  "focus": "在嘈杂环境中听不清时的应对"
+ },
+ {
+  "day": 189,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 19,
+  "focus": "退房结账、核对账单、要发票"
+ },
+ {
+  "day": 190,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 19,
+  "focus": "总结结论、分派待办"
+ },
+ {
+  "day": 191,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 19,
+  "focus": "免税店与贵宾休息室"
+ },
+ {
+  "day": 192,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 5,
+  "focus": "同事离职、升职、生病时的说法"
+ },
+ {
+  "day": 193,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 5,
+  "focus": "陪家人看病、代为描述"
+ },
+ {
+  "day": 194,
+  "scene_zh": "银行与换汇",
+  "scene_en": "Bank and currency exchange",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 3,
+  "focus": "解释资金来源、与客户经理讨论产品"
+ },
+ {
+  "day": 195,
+  "scene_zh": "感谢与道歉",
+  "scene_en": "Thanks and apologies",
+  "category": "社交寒暄",
+  "tier": "low",
+  "round": 3,
+  "focus": "什么时候该道歉、什么时候不该"
+ },
+ {
+  "day": 196,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 5,
+  "focus": "网购退换与线下取货"
+ },
+ {
+  "day": 197,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 20,
+  "focus": "结账、小费、要发票"
+ },
+ {
+  "day": 198,
+  "scene_zh": "药店买药",
+  "scene_en": "At the pharmacy",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 3,
+  "focus": "为家人代买、解释复杂情况"
+ },
+ {
+  "day": 199,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 20,
+  "focus": "委婉投诉而不失礼"
+ },
+ {
+  "day": 200,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 20,
+  "focus": "主持会议、控制时间"
+ },
+ {
+  "day": 201,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 20,
+  "focus": "登机广播没听懂时怎么问"
+ },
+ {
+  "day": 202,
+  "scene_zh": "初次见面",
+  "scene_en": "Introducing yourself",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 5,
+  "focus": "线上会议里的自我介绍"
+ },
+ {
+  "day": 203,
+  "scene_zh": "租房看房",
+  "scene_en": "Renting an apartment",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 3,
+  "focus": "退租交接、押金纠纷"
+ },
+ {
+  "day": 204,
+  "scene_zh": "紧急求助",
+  "scene_en": "Emergencies",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 3,
+  "focus": "冷静复述与安抚他人"
+ },
+ {
+  "day": 205,
+  "scene_zh": "报修与投诉",
+  "scene_en": "Reporting a problem",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 3,
+  "focus": "写正式投诉邮件的措辞"
+ },
+ {
+  "day": 206,
+  "scene_zh": "保险与理赔",
+  "scene_en": "Insurance and claims",
+  "category": "医疗紧急",
+  "tier": "low",
+  "round": 3,
+  "focus": "对拒赔提出申诉"
+ },
+ {
+  "day": 207,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 21,
+  "focus": "带人吃饭、照顾同伴口味"
+ },
+ {
+  "day": 208,
+  "scene_zh": "通信与网络",
+  "scene_en": "Phone plan and internet",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 3,
+  "focus": "账单争议与投诉升级"
+ },
+ {
+  "day": 209,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 21,
+  "focus": "会员积分、升级房型"
+ },
+ {
+  "day": 210,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 21,
+  "focus": "把跑题的讨论拉回来"
+ },
+ {
+  "day": 211,
+  "scene_zh": "闲聊话题",
+  "scene_en": "Small talk",
+  "category": "社交寒暄",
+  "tier": "mid",
+  "round": 6,
+  "focus": "天气、周末、通勤、最近在忙什么"
+ },
+ {
+  "day": 212,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 21,
+  "focus": "行李损坏或丢失的申报"
+ },
+ {
+  "day": 213,
+  "scene_zh": "电话与视频通话",
+  "scene_en": "Phone and video calls",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 4,
+  "focus": "接打电话、自报身份、请对方稍等"
+ },
+ {
+  "day": 214,
+  "scene_zh": "问路与方向",
+  "scene_en": "Asking for directions",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 6,
+  "focus": "问怎么走、多远、要多久"
+ },
+ {
+  "day": 215,
+  "scene_zh": "健身与运动",
+  "scene_en": "Gym and sports",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 4,
+  "focus": "办卡、问课程、问器械怎么用"
+ },
+ {
+  "day": 216,
+  "scene_zh": "结账与小费",
+  "scene_en": "Paying the bill and tipping",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 4,
+  "focus": "买单、刷卡或现金、要发票"
+ },
+ {
+  "day": 217,
+  "scene_zh": "孩子与学校",
+  "scene_en": "School and kids",
+  "category": "居住事务",
+  "tier": "low",
+  "round": 4,
+  "focus": "问入学、接送、问老师情况"
+ },
+ {
+  "day": 218,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 22,
+  "focus": "快餐与柜台点单"
+ },
+ {
+  "day": 219,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 22,
+  "focus": "叫车接送机、行李搬运"
+ },
+ {
+  "day": 220,
+  "scene_zh": "咖啡店点单",
+  "scene_en": "Ordering coffee",
+  "category": "餐饮",
+  "tier": "mid",
+  "round": 6,
+  "focus": "点咖啡、选杯型冷热、堂食或带走"
+ },
+ {
+  "day": 221,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 22,
+  "focus": "线上会议：静音、共享屏幕、掉线"
+ },
+ {
+  "day": 222,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 22,
+  "focus": "特殊物品：电池、药品、乐器"
+ },
+ {
+  "day": 223,
+  "scene_zh": "请假与调休",
+  "scene_en": "Asking for leave",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 4,
+  "focus": "请假、说明原因、交接工作"
+ },
+ {
+  "day": 224,
+  "scene_zh": "打车与网约车",
+  "scene_en": "Taking a taxi or ride-hailing",
+  "category": "出行住宿",
+  "tier": "mid",
+  "round": 6,
+  "focus": "说目的地、确认路线、问车费"
+ },
+ {
+  "day": 225,
+  "scene_zh": "团建与欢送",
+  "scene_en": "Team outings and farewells",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 4,
+  "focus": "参加活动、寒暄、简短祝词"
+ },
+ {
+  "day": 226,
+  "scene_zh": "饮食禁忌与过敏",
+  "scene_en": "Dietary restrictions and allergies",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 4,
+  "focus": "说明不吃什么、过敏原、素食需求"
+ },
+ {
+  "day": 227,
+  "scene_zh": "出差安排",
+  "scene_en": "Business travel arrangements",
+  "category": "职场日常",
+  "tier": "low",
+  "round": 4,
+  "focus": "订机票酒店、报销、行程沟通"
+ },
+ {
+  "day": 228,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 23,
+  "focus": "退菜与投诉"
+ },
+ {
+  "day": 229,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 23,
+  "focus": "向前台打听周边餐厅、交通与景点"
+ },
+ {
+  "day": 230,
+  "scene_zh": "外卖与订位",
+  "scene_en": "Takeaway and reservations",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 4,
+  "focus": "电话订位、改人数、点外卖"
+ },
+ {
+  "day": 231,
+  "scene_zh": "日常会议",
+  "scene_en": "Everyday meetings",
+  "category": "职场日常",
+  "tier": "core",
+  "round": 23,
+  "focus": "会前会后的闲聊"
+ },
+ {
+  "day": 232,
+  "scene_zh": "机场值机与安检",
+  "scene_en": "Airport check-in and security",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 23,
+  "focus": "值机排队与优先通道"
+ },
+ {
+  "day": 233,
+  "scene_zh": "同事闲聊与午餐",
+  "scene_en": "Chatting with colleagues",
+  "category": "职场日常",
+  "tier": "mid",
+  "round": 6,
+  "focus": "约午饭、聊周末、聊项目近况"
+ },
+ {
+  "day": 234,
+  "scene_zh": "看医生",
+  "scene_en": "Seeing a doctor",
+  "category": "医疗紧急",
+  "tier": "mid",
+  "round": 6,
+  "focus": "描述症状、说明多久了、问怎么治"
+ },
+ {
+  "day": 235,
+  "scene_zh": "出入境与海关",
+  "scene_en": "Immigration and customs",
+  "category": "出行住宿",
+  "tier": "low",
+  "round": 4,
+  "focus": "回答访问目的、停留时间、住宿地址"
+ },
+ {
+  "day": 236,
+  "scene_zh": "服装购物",
+  "scene_en": "Shopping for clothes",
+  "category": "购物服务",
+  "tier": "mid",
+  "round": 6,
+  "focus": "问尺码颜色、试衣、问价格"
+ },
+ {
+  "day": 237,
+  "scene_zh": "商务宴请",
+  "scene_en": "Hosting a business dinner",
+  "category": "餐饮",
+  "tier": "low",
+  "round": 4,
+  "focus": "邀请、安排座位、点菜时照顾客人"
+ },
+ {
+  "day": 238,
+  "scene_zh": "退换货",
+  "scene_en": "Returns and exchanges",
+  "category": "购物服务",
+  "tier": "low",
+  "round": 4,
+  "focus": "说明要退换、出示小票、问政策"
+ },
+ {
+  "day": 239,
+  "scene_zh": "餐厅点餐",
+  "scene_en": "Ordering at a restaurant",
+  "category": "餐饮",
+  "tier": "core",
+  "round": 24,
+  "focus": "预约大桌、说明特殊需求"
+ },
+ {
+  "day": 240,
+  "scene_zh": "酒店入住",
+  "scene_en": "Checking in at a hotel",
+  "category": "出行住宿",
+  "tier": "core",
+  "round": 24,
+  "focus": "续住、换房型、长住谈价"
+ }
+]

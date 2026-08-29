@@ -1,0 +1,58 @@
+name: daily-life-english
+
+on:
+  schedule:
+    # GitHub Actions 用 UTC 时间。UTC 00:00 = 北京时间当天 08:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      force_day:
+        description: '强制按第几天推送（起始日之前测试用，留空则按真实日期）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install edge-tts
+
+      # 第 1 步：调 AI 生成卡片、合成音频、归档当天内容
+      - name: 生成内容与音频
+        run: python push_life.py generate
+        env:
+          PROVIDER:          deepseek
+          FORCE_DAY:         ${{ inputs.force_day }}
+          GH_REPO:           ${{ github.repository }}
+          DEEPSEEK_API_KEY:  ${{ secrets.DEEPSEEK_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # 第 2 步：音频和归档要先提交，jsDelivr 才取得到文件
+      - name: 提交音频与归档
+        run: |
+          mkdir -p audio history
+          date -u +"last run: %Y-%m-%d %H:%M UTC" > last_run.txt
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A audio history last_run.txt
+          git commit -m "day audio + history" || exit 0
+          git pull --rebase origin main || true
+          git push
+
+      # 第 3 步：音频已在线，再推微信
+      - name: 推送到微信
+        run: python push_life.py send
+        env:
+          FORCE_DAY:      ${{ inputs.force_day }}
+          GH_REPO:        ${{ github.repository }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
