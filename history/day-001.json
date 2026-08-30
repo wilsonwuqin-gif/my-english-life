@@ -7,31 +7,31 @@
  "sentences": [
   [
    "I have a reservation under the name Wang.",
-   "我用王这个名字做了预订。"
+   "我有一个预订，名字是王。"
   ],
   [
    "Here is my passport.",
    "这是我的护照。"
   ],
   [
+   "I'd like to check in, please.",
+   "我要办理入住。"
+  ],
+  [
+   "What time is breakfast?",
+   "早餐几点？"
+  ],
+  [
+   "What is the check-out time?",
+   "退房时间是什么时候？"
+  ],
+  [
+   "Can I pay by credit card?",
+   "我可以用信用卡付款吗？"
+  ],
+  [
    "Is breakfast included?",
    "早餐包含在内吗？"
-  ],
-  [
-   "What time is check-out?",
-   "退房是几点？"
-  ],
-  [
-   "What time is breakfast served?",
-   "早餐几点供应？"
-  ],
-  [
-   "Can I get a late check-out?",
-   "我可以晚一点退房吗？"
-  ],
-  [
-   "Could I have a receipt, please?",
-   "能给我一张收据吗？"
   ]
  ],
  "words": [
@@ -41,19 +41,19 @@
    "预订"
   ],
   [
+   "check-in",
+   "/ˈtʃek ɪn/",
+   "入住登记"
+  ],
+  [
    "passport",
-   "/ˈpɑːspɔːt/",
+   "/ˈpæspɔːrt/",
    "护照"
   ],
   [
-   "included",
-   "/ɪnˈkluːdɪd/",
-   "包含在内的"
-  ],
-  [
-   "check-out",
-   "/tʃek aʊt/",
-   "退房"
+   "key card",
+   "/ˈkiː kɑːrd/",
+   "房卡"
   ],
   [
    "breakfast",
@@ -61,19 +61,19 @@
    "早餐"
   ],
   [
-   "receipt",
-   "/rɪˈsiːt/",
-   "收据"
+   "check-out",
+   "/ˈtʃek aʊt/",
+   "退房"
   ],
   [
-   "late check-out",
-   "/leɪt tʃek aʊt/",
-   "延迟退房"
+   "lobby",
+   "/ˈlɑːbi/",
+   "大堂"
   ],
   [
-   "under the name",
-   "/ˈʌndər ðə neɪm/",
-   "以…的名字"
+   "included",
+   "/ɪnˈkluːdɪd/",
+   "包含在内的"
   ]
  ]
 }
