@@ -21,6 +21,7 @@ import os
 import re
 import sys
 import glob
+import hashlib
 import json
 import asyncio
 import datetime
@@ -159,7 +160,20 @@ def make_audio(script, day_n, idx):
         return None
 
     os.makedirs(AUDIO_DIR, exist_ok=True)
-    path = f"{AUDIO_DIR}/day-{day_n + 1:03d}-{idx}.mp3"
+    # 文件名带内容哈希：内容变了文件名就变，URL 也就变了。
+    # 否则同名文件被 jsDelivr 缓存后，改了内容 CDN 仍返回旧音频，
+    # 会出现「文字是今天的、声音是上次的」。
+    sig = hashlib.sha1(
+        (script + VOICE + SPEECH_RATE).encode("utf-8")).hexdigest()[:8]
+    stem = f"day-{day_n + 1:03d}-{idx}"
+    path = f"{AUDIO_DIR}/{stem}-{sig}.mp3"
+
+    if os.path.exists(path):                 # 内容没变就不用重新合成
+        print(f"[音频] 第 {idx} 节内容未变，沿用 {path}")
+        return path
+
+    for old_file in glob.glob(f"{AUDIO_DIR}/{stem}-*.mp3"):
+        os.remove(old_file)                  # 清掉同一节的旧哈希版本
 
     async def _run():
         tts = edge_tts.Communicate(script, VOICE, rate=SPEECH_RATE)
