@@ -6,32 +6,32 @@
  "focus": "报预订、出示证件、问早餐与退房时间",
  "sentences": [
   [
-   "I have a reservation under the name Wang.",
-   "我有一个预订，名字是王。"
+   "I have a booking under Zhang Wei.",
+   "我用张伟的名字订了房。"
   ],
   [
    "Here is my passport.",
    "这是我的护照。"
   ],
   [
-   "I'd like to check in, please.",
-   "我要办理入住。"
-  ],
-  [
    "What time is breakfast?",
-   "早餐几点？"
-  ],
-  [
-   "What is the check-out time?",
-   "退房时间是什么时候？"
-  ],
-  [
-   "Can I pay by credit card?",
-   "我可以用信用卡付款吗？"
+   "早餐是几点？"
   ],
   [
    "Is breakfast included?",
-   "早餐包含在内吗？"
+   "早餐包含在房费里吗？"
+  ],
+  [
+   "What time is check-out?",
+   "退房是几点？"
+  ],
+  [
+   "Can I get a late check-out?",
+   "可以晚一点退房吗？"
+  ],
+  [
+   "Do you need my credit card?",
+   "需要我的信用卡吗？"
   ]
  ],
  "words": [
@@ -41,19 +41,9 @@
    "预订"
   ],
   [
-   "check-in",
-   "/ˈtʃek ɪn/",
-   "入住登记"
-  ],
-  [
    "passport",
-   "/ˈpæspɔːrt/",
+   "/ˈpɑːspɔːt/",
    "护照"
-  ],
-  [
-   "key card",
-   "/ˈkiː kɑːrd/",
-   "房卡"
   ],
   [
    "breakfast",
@@ -67,13 +57,23 @@
   ],
   [
    "lobby",
-   "/ˈlɑːbi/",
+   "/ˈlɒbi/",
    "大堂"
   ],
   [
-   "included",
-   "/ɪnˈkluːdɪd/",
-   "包含在内的"
+   "floor",
+   "/flɔːr/",
+   "楼层"
+  ],
+  [
+   "key card",
+   "/ˈkiː kɑːd/",
+   "房卡"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
   ]
  ]
 }
