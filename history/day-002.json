@@ -1,0 +1,79 @@
+{
+ "day_n": 1,
+ "day": 2,
+ "scene_zh": "餐厅点餐",
+ "round": 1,
+ "focus": "订位、点菜、要水、问推荐",
+ "sentences": [
+  [
+   "I have a reservation for 7pm.",
+   "我订了晚上七点的位子。"
+  ],
+  [
+   "Can I get a glass of water, please?",
+   "请给我一杯水。"
+  ],
+  [
+   "What do you recommend?",
+   "你有什么推荐的？"
+  ],
+  [
+   "I'll have the steam fish.",
+   "我来一份蒸鱼。"
+  ],
+  [
+   "Could I have extra chillies on the side?",
+   "能给我边上多放点辣椒吗？"
+  ],
+  [
+   "Any drinks menu?",
+   "有饮品单吗？"
+  ],
+  [
+   "That's all for now. Thanks.",
+   "先就这些，谢谢。"
+  ]
+ ],
+ "words": [
+  [
+   "reservation",
+   "/ˌrezəˈveɪʃn/",
+   "预订"
+  ],
+  [
+   "menu",
+   "/ˈmenjuː/",
+   "菜单"
+  ],
+  [
+   "recommend",
+   "/ˌrekəˈmend/",
+   "推荐"
+  ],
+  [
+   "steam fish",
+   "/stiːm fɪʃ/",
+   "蒸鱼"
+  ],
+  [
+   "on the side",
+   "/ɒn ðə saɪd/",
+   "放在边上（另盘）"
+  ],
+  [
+   "extra",
+   "/ˈekstrə/",
+   "额外的"
+  ],
+  [
+   "glass",
+   "/ɡlɑːs/",
+   "杯子"
+  ],
+  [
+   "popular",
+   "/ˈpɒpjələ/",
+   "受欢迎的"
+  ]
+ ]
+}
