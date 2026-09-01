@@ -1,0 +1,79 @@
+{
+ "day_n": 2,
+ "day": 3,
+ "scene_zh": "机场值机与安检",
+ "round": 1,
+ "focus": "换登机牌、托运行李、问登机口",
+ "sentences": [
+  [
+   "I’d like to check in for my flight to Singapore.",
+   "我要办理去新加坡航班的登机手续。"
+  ],
+  [
+   "Here is my passport.",
+   "这是我的护照。"
+  ],
+  [
+   "I have one bag to check in.",
+   "我有一个行李要托运。"
+  ],
+  [
+   "Is this within the weight limit?",
+   "这没超重吧？"
+  ],
+  [
+   "Which gate do I need to go to?",
+   "我需要去哪个登机口？"
+  ],
+  [
+   "Where is the baggage drop counter?",
+   "行李托运柜台在哪儿？"
+  ],
+  [
+   "Can I have a window seat, please?",
+   "可以给我一个靠窗的座位吗？"
+  ]
+ ],
+ "words": [
+  [
+   "boarding pass",
+   "/ˈbɔːrdɪŋ pæs/",
+   "登机牌"
+  ],
+  [
+   "check-in counter",
+   "/ˈtʃekɪn ˈkaʊntər/",
+   "值机柜台"
+  ],
+  [
+   "baggage drop",
+   "/ˈbæɡɪdʒ drɑːp/",
+   "行李托运处"
+  ],
+  [
+   "suitcase",
+   "/ˈsuːtkeɪs/",
+   "行李箱"
+  ],
+  [
+   "weight limit",
+   "/weɪt ˈlɪmɪt/",
+   "重量限制"
+  ],
+  [
+   "gate",
+   "/ɡeɪt/",
+   "登机口"
+  ],
+  [
+   "passport",
+   "/ˈpæspɔːrt/",
+   "护照"
+  ],
+  [
+   "aisle seat",
+   "/aɪl siːt/",
+   "靠过道的座位"
+  ]
+ ]
+}
