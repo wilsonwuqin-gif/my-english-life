@@ -1,0 +1,79 @@
+{
+ "day_n": 3,
+ "day": 4,
+ "scene_zh": "日常会议",
+ "round": 1,
+ "focus": "加入会议、寒暄开场、说明议程",
+ "sentences": [
+  [
+   "Sorry I’m late, the lift was stuck.",
+   "抱歉我迟到了，电梯卡住了。"
+  ],
+  [
+   "What’s on the agenda for today?",
+   "今天议程上有什么？"
+  ],
+  [
+   "Let’s get started, shall we?",
+   "我们开始吧，好吗？"
+  ],
+  [
+   "Before we dive in, let me set the agenda.",
+   "在我们深入之前，请让我先说明议程。"
+  ],
+  [
+   "First on the list is the chiller plant update.",
+   "议程第一项是冷冻机房更新。"
+  ],
+  [
+   "We’ll keep this meeting to thirty minutes.",
+   "我们会把会议控制在三十分钟内。"
+  ],
+  [
+   "Shall we take that item offline?",
+   "那项我们要不要会后再谈？"
+  ]
+ ],
+ "words": [
+  [
+   "agenda",
+   "/əˈdʒendə/",
+   "议程"
+  ],
+  [
+   "dive in",
+   "/daɪv ɪn/",
+   "直接开始、深入"
+  ],
+  [
+   "update",
+   "/ˈʌpdeɪt/",
+   "更新情况"
+  ],
+  [
+   "dial in",
+   "/ˈdaɪəl ɪn/",
+   "电话拨入"
+  ],
+  [
+   "kick off",
+   "/kɪk ɒf/",
+   "开始（会议）"
+  ],
+  [
+   "item",
+   "/ˈaɪtəm/",
+   "议程项目"
+  ],
+  [
+   "wrap up",
+   "/ræp ʌp/",
+   "结束、收尾"
+  ],
+  [
+   "on site",
+   "/ɒn saɪt/",
+   "在工地现场"
+  ]
+ ]
+}
