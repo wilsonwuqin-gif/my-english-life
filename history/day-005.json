@@ -1,0 +1,79 @@
+{
+ "day_n": 4,
+ "day": 5,
+ "scene_zh": "健身与运动",
+ "round": 1,
+ "focus": "办卡、问课程、问器械怎么用",
+ "sentences": [
+  [
+   "I'd like to join this gym.",
+   "我想办一张这家健身房的卡。"
+  ],
+  [
+   "What membership plans do you have?",
+   "你们有什么会员方案？"
+  ],
+  [
+   "Can I pay month by month?",
+   "我可以按月付费吗？"
+  ],
+  [
+   "Do you have any group classes?",
+   "你们有团体课吗？"
+  ],
+  [
+   "Can you show me how this machine works?",
+   "你能教我一下这个器械怎么用吗？"
+  ],
+  [
+   "Is the personal trainer extra?",
+   "私教是另外收费的吗？"
+  ],
+  [
+   "What time is the yoga class?",
+   "瑜伽课是几点？"
+  ]
+ ],
+ "words": [
+  [
+   "membership",
+   "/ˈmembərʃɪp/",
+   "会员资格，会员卡"
+  ],
+  [
+   "plan",
+   "/plæn/",
+   "方案，套餐"
+  ],
+  [
+   "trainer",
+   "/ˈtreɪnər/",
+   "教练"
+  ],
+  [
+   "class",
+   "/klæs/",
+   "课程"
+  ],
+  [
+   "treadmill",
+   "/ˈtredmɪl/",
+   "跑步机"
+  ],
+  [
+   "machine",
+   "/məˈʃiːn/",
+   "器械"
+  ],
+  [
+   "schedule",
+   "/ˈskedʒuːl/",
+   "时间表"
+  ],
+  [
+   "book",
+   "/bʊk/",
+   "预约，预订"
+  ]
+ ]
+}
