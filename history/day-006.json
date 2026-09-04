@@ -1,0 +1,79 @@
+{
+ "day_n": 5,
+ "day": 6,
+ "scene_zh": "电话与视频通话",
+ "round": 1,
+ "focus": "接打电话、自报身份、请对方稍等",
+ "sentences": [
+  [
+   "Hello, this is David speaking.",
+   "你好，我是David。"
+  ],
+  [
+   "May I speak to the project manager?",
+   "请问项目经理在吗？"
+  ],
+  [
+   "One moment, please.",
+   "请稍等。"
+  ],
+  [
+   "Hold on a second.",
+   "稍等一下。"
+  ],
+  [
+   "I am calling about the air-con system.",
+   "我打电话来是关于空调系统的事。"
+  ],
+  [
+   "Can you hear me clearly?",
+   "你听得清楚吗？"
+  ],
+  [
+   "Sorry, the line is bad. Can you repeat that?",
+   "抱歉，信号不好。你能再说一遍吗？"
+  ]
+ ],
+ "words": [
+  [
+   "connect",
+   "/kəˈnekt/",
+   "接通"
+  ],
+  [
+   "transfer",
+   "/trænsˈfɜːr/",
+   "转接"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "有空的"
+  ],
+  [
+   "hold on",
+   "/hoʊld ɒn/",
+   "别挂断"
+  ],
+  [
+   "extension",
+   "/ɪkˈstenʃn/",
+   "分机"
+  ],
+  [
+   "speaking",
+   "/ˈspiːkɪŋ/",
+   "（我就是）本人"
+  ],
+  [
+   "put through",
+   "/pʊt θruː/",
+   "转接"
+  ],
+  [
+   "line",
+   "/laɪn/",
+   "电话线/信号"
+  ]
+ ]
+}
