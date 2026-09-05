@@ -1,0 +1,79 @@
+{
+ "day_n": 6,
+ "day": 7,
+ "scene_zh": "闲聊话题",
+ "round": 1,
+ "focus": "天气、周末、通勤、最近在忙什么",
+ "sentences": [
+  [
+   "It is so humid today.",
+   "今天好潮湿。"
+  ],
+  [
+   "I am glad it is Friday.",
+   "还好今天是周五。"
+  ],
+  [
+   "How was your weekend?",
+   "你周末过得怎么样？"
+  ],
+  [
+   "I just stayed home and rested.",
+   "我就待在家里休息了。"
+  ],
+  [
+   "The traffic this morning was terrible.",
+   "今天早上交通太糟了。"
+  ],
+  [
+   "I have been busy with the chiller plant testing.",
+   "我最近一直在忙冷机房的测试。"
+  ],
+  [
+   "What about you? What are you up to these days?",
+   "你呢？你最近在忙什么？"
+  ]
+ ],
+ "words": [
+  [
+   "humid",
+   "/ˈhjuːmɪd/",
+   "潮湿的"
+  ],
+  [
+   "MRT",
+   "/em ɑː ˈtiː/",
+   "新加坡地铁"
+  ],
+  [
+   "catch up on",
+   "/kætʃ ʌp ɒn/",
+   "补上，赶进度"
+  ],
+  [
+   "commute",
+   "/kəˈmjuːt/",
+   "通勤"
+  ],
+  [
+   "weekend",
+   "/ˌwiːkˈend/",
+   "周末"
+  ],
+  [
+   "AHU",
+   "/ˌeɪ eɪtʃ ˈjuː/",
+   "空气处理机组"
+  ],
+  [
+   "fine-tune",
+   "/ˌfaɪn ˈtjuːn/",
+   "微调"
+  ],
+  [
+   "ward",
+   "/wɔːd/",
+   "病房"
+  ]
+ ]
+}
