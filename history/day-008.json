@@ -1,0 +1,79 @@
+{
+ "day_n": 7,
+ "day": 8,
+ "scene_zh": "孩子与学校",
+ "round": 1,
+ "focus": "问入学、接送、问老师情况",
+ "sentences": [
+  [
+   "I want to enroll my son in this school.",
+   "我想让我儿子报名上这所学校。"
+  ],
+  [
+   "What documents do I need to apply?",
+   "申请需要什么材料？"
+  ],
+  [
+   "I pick him up at school every afternoon.",
+   "我每天下午去学校接他。"
+  ],
+  [
+   "Can I ask about how my kid is doing?",
+   "我想问问孩子的情况，可以吗？"
+  ],
+  [
+   "Who is his form teacher, please?",
+   "请问他的班主任是哪位老师？"
+  ],
+  [
+   "Does he behave well in class?",
+   "他在课堂上表现乖吗？"
+  ],
+  [
+   "Is there a school bus on my street?",
+   "我们这条街有校车经过吗？"
+  ]
+ ],
+ "words": [
+  [
+   "enroll",
+   "/ɪnˈroʊl/",
+   "报名，注册入学"
+  ],
+  [
+   "pick up",
+   "/pɪk ʌp/",
+   "接（孩子）"
+  ],
+  [
+   "drop off",
+   "/drɑːp ɔːf/",
+   "送（孩子）"
+  ],
+  [
+   "form teacher",
+   "/fɔːrm ˈtiːtʃər/",
+   "班主任"
+  ],
+  [
+   "parent meeting",
+   "/ˈperənt ˈmiːtɪŋ/",
+   "家长会"
+  ],
+  [
+   "school bus",
+   "/skuːl bʌs/",
+   "校车"
+  ],
+  [
+   "apply",
+   "/əˈplaɪ/",
+   "申请"
+  ],
+  [
+   "homework",
+   "/ˈhoʊmwɜːrk/",
+   "家庭作业"
+  ]
+ ]
+}
