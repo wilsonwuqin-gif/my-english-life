@@ -1,0 +1,38 @@
+{
+ "day_n": 8,
+ "day": 9,
+ "scene_zh": "问路与方向",
+ "round": 1,
+ "focus": "问怎么走、多远、要多久",
+ "sentences": [
+  [
+   "How do I get to the plant room?",
+   "我怎么去设备间？"
+  ],
+  [
+   "Is it far from here?",
+   "离这儿远吗？"
+  ],
+  [
+   "How long does it take to walk there?",
+   "走路到那儿要多久？"
+  ],
+  [
+   "Which is closer, the stairs or the lift?",
+   "楼梯和电梯哪个更近？"
+  ],
+  [
+   "Can I walk there in five minutes?",
+   "五分钟能走到吗？"
+  ],
+  [
+   "About how many metres is it?",
+   "大概有多少米？"
+  ],
+  [
+   "Which way is the nearest exit?",
+   "最近的出口往哪边走？"
+  ]
+ ],
+ "words": []
+}
