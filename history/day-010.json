@@ -1,0 +1,79 @@
+{
+ "day_n": 9,
+ "day": 10,
+ "scene_zh": "结账与小费",
+ "round": 1,
+ "focus": "买单、刷卡或现金、要发票",
+ "sentences": [
+  [
+   "Can I pay by card?",
+   "我可以刷卡吗？"
+  ],
+  [
+   "Do you take cash here?",
+   "你们这里收现金吗？"
+  ],
+  [
+   "Could I have the bill, please?",
+   "麻烦给我账单。"
+  ],
+  [
+   "Is service charge included?",
+   "服务费包含在内了吗？"
+  ],
+  [
+   "Can I get a receipt for that?",
+   "能给我开一张发票吗？"
+  ],
+  [
+   "Keep the change.",
+   "不用找了（零钱留着吧）。"
+  ],
+  [
+   "Can I split the bill with my colleague?",
+   "我可以和同事分开付吗？"
+  ]
+ ],
+ "words": [
+  [
+   "bill",
+   "/bɪl/",
+   "账单"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据，发票"
+  ],
+  [
+   "service charge",
+   "/ˈsɜːrvɪs tʃɑːrdʒ/",
+   "服务费"
+  ],
+  [
+   "cash",
+   "/kæʃ/",
+   "现金"
+  ],
+  [
+   "card",
+   "/kɑːrd/",
+   "卡，银行卡"
+  ],
+  [
+   "change",
+   "/tʃeɪndʒ/",
+   "零钱，找零"
+  ],
+  [
+   "split the bill",
+   "/splɪt ðə bɪl/",
+   "分开付账"
+  ],
+  [
+   "tip",
+   "/tɪp/",
+   "小费"
+  ]
+ ]
+}
