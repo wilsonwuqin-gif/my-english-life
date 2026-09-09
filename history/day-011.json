@@ -1,0 +1,79 @@
+{
+ "day_n": 10,
+ "day": 11,
+ "scene_zh": "酒店入住",
+ "round": 2,
+ "focus": "房间有问题、要求换房",
+ "sentences": [
+  [
+   "There is a problem with my room.",
+   "我的房间有问题。"
+  ],
+  [
+   "The air conditioner is not working.",
+   "空调坏了。"
+  ],
+  [
+   "The shower has no hot water.",
+   "淋浴没有热水。"
+  ],
+  [
+   "Can you send someone to fix it?",
+   "你能派人来修一下吗？"
+  ],
+  [
+   "I want to change to another room.",
+   "我要换到另一间房。"
+  ],
+  [
+   "Do you have a quieter room available?",
+   "你们有更安静的房间吗？"
+  ],
+  [
+   "Can I see the room before I move in?",
+   "换房之前我能先看一眼吗？"
+  ]
+ ],
+ "words": [
+  [
+   "leaking",
+   "/ˈliːkɪŋ/",
+   "漏水的"
+  ],
+  [
+   "broken",
+   "/ˈbroʊkən/",
+   "坏了的"
+  ],
+  [
+   "noisy",
+   "/ˈnɔɪzi/",
+   "吵闹的"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "可用的，有空的"
+  ],
+  [
+   "fix",
+   "/fɪks/",
+   "修理"
+  ],
+  [
+   "move",
+   "/muːv/",
+   "搬，换"
+  ],
+  [
+   "upgrade",
+   "/ˈʌpɡreɪd/",
+   "升级"
+  ],
+  [
+   "maintenance",
+   "/ˈmeɪntənəns/",
+   "维修人员"
+  ]
+ ]
+}
