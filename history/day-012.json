@@ -1,0 +1,79 @@
+{
+ "day_n": 11,
+ "day": 12,
+ "scene_zh": "请假与调休",
+ "round": 1,
+ "focus": "请假、说明原因、交接工作",
+ "sentences": [
+  [
+   "I need to take a day off tomorrow.",
+   "我明天要请一天假。"
+  ],
+  [
+   "I would like to apply for leave on Friday.",
+   "我想申请周五请假。"
+  ],
+  [
+   "I have a family emergency at home.",
+   "我家里有急事。"
+  ],
+  [
+   "I need to take my child to the clinic.",
+   "我需要带孩子去诊所。"
+  ],
+  [
+   "I will make up the hours this weekend.",
+   "我会这周末把工时补回来。"
+  ],
+  [
+   "Can I use one day of my annual leave?",
+   "我可以用一天年假吗？"
+  ],
+  [
+   "I will hand over my tasks to John before I leave.",
+   "我离开前会把工作交接给约翰。"
+  ]
+ ],
+ "words": [
+  [
+   "take leave",
+   "/teɪk liːv/",
+   "请假"
+  ],
+  [
+   "day off",
+   "/deɪ ɒf/",
+   "休息日"
+  ],
+  [
+   "annual leave",
+   "/ˈænjuəl liːv/",
+   "年假"
+  ],
+  [
+   "make up hours",
+   "/meɪk ʌp ˈaʊəz/",
+   "补工时"
+  ],
+  [
+   "hand over",
+   "/hænd ˈəʊvə/",
+   "交接"
+  ],
+  [
+   "cover for someone",
+   "/ˈkʌvə fə ˈsʌmwʌn/",
+   "替班"
+  ],
+  [
+   "family emergency",
+   "/ˈfæməli ɪˈmɜːdʒənsi/",
+   "家庭急事"
+  ],
+  [
+   "sick child",
+   "/sɪk tʃaɪld/",
+   "生病的孩子"
+  ]
+ ]
+}
