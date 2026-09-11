@@ -1,0 +1,79 @@
+{
+ "day_n": 12,
+ "day": 13,
+ "scene_zh": "餐厅点餐",
+ "round": 2,
+ "focus": "说明忌口与过敏、要求换配料",
+ "sentences": [
+  [
+   "I'm allergic to seafood.",
+   "我对海鲜过敏。"
+  ],
+  [
+   "I can't eat dairy.",
+   "我不能吃奶制品。"
+  ],
+  [
+   "Does this dish contain nuts?",
+   "这道菜含坚果吗？"
+  ],
+  [
+   "Can I swap the rice for noodles?",
+   "我能把米饭换成面条吗？"
+  ],
+  [
+   "Please leave out the onions.",
+   "请别放洋葱。"
+  ],
+  [
+   "No cilantro, please.",
+   "不要香菜，谢谢。"
+  ],
+  [
+   "Can you make it without garlic?",
+   "能不放蒜吗？"
+  ]
+ ],
+ "words": [
+  [
+   "allergic",
+   "/əˈlɜːrdʒɪk/",
+   "过敏的"
+  ],
+  [
+   "swap",
+   "/swɑːp/",
+   "替换"
+  ],
+  [
+   "contain",
+   "/kənˈteɪn/",
+   "含有"
+  ],
+  [
+   "leave out",
+   "/liːv aʊt/",
+   "不加，去掉"
+  ],
+  [
+   "dairy",
+   "/ˈderi/",
+   "奶制品"
+  ],
+  [
+   "nuts",
+   "/nʌts/",
+   "坚果"
+  ],
+  [
+   "cilantro",
+   "/sɪˈlæntroʊ/",
+   "香菜"
+  ],
+  [
+   "garlic",
+   "/ˈɡɑːrlɪk/",
+   "大蒜"
+  ]
+ ]
+}
