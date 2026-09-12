@@ -1,0 +1,79 @@
+{
+ "day_n": 13,
+ "day": 14,
+ "scene_zh": "机场值机与安检",
+ "round": 2,
+ "focus": "行李超重、随身行李规定",
+ "sentences": [
+  [
+   "My bag is a little overweight.",
+   "我的行李有点超重。"
+  ],
+  [
+   "How much do I need to pay for the extra weight?",
+   "超重的部分我要付多少钱？"
+  ],
+  [
+   "Can I take something out and put it in my carry-on?",
+   "我可以拿点东西出来放进随身行李吗？"
+  ],
+  [
+   "What's the weight limit for carry-on?",
+   "随身行李的重量限制是多少？"
+  ],
+  [
+   "Is my carry-on too big for the cabin?",
+   "我的随身行李放客舱会不会太大？"
+  ],
+  [
+   "I have a laptop and some liquids in my carry-on.",
+   "我随身行李里有笔记本电脑和一些液体。"
+  ],
+  [
+   "Do I need to take my laptop out at security?",
+   "安检时我需要把笔记本电脑拿出来吗？"
+  ]
+ ],
+ "words": [
+  [
+   "overweight",
+   "/ˌəʊvəˈweɪt/",
+   "超重的"
+  ],
+  [
+   "carry-on",
+   "/ˈkæri ɒn/",
+   "随身行李"
+  ],
+  [
+   "check-in baggage",
+   "/ˈtʃek ɪn ˈbæɡɪdʒ/",
+   "托运行李"
+  ],
+  [
+   "weight limit",
+   "/weɪt ˈlɪmɪt/",
+   "重量限制"
+  ],
+  [
+   "excess fee",
+   "/ɪkˈses fiː/",
+   "超重费"
+  ],
+  [
+   "cabin",
+   "/ˈkæbɪn/",
+   "客舱"
+  ],
+  [
+   "liquids",
+   "/ˈlɪkwɪdz/",
+   "液体"
+  ],
+  [
+   "tray",
+   "/treɪ/",
+   "托盘"
+  ]
+ ]
+}
