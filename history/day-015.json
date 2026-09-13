@@ -1,0 +1,79 @@
+{
+ "day_n": 14,
+ "day": 15,
+ "scene_zh": "日常会议",
+ "round": 2,
+ "focus": "听不清请对方重复或放慢",
+ "sentences": [
+  [
+   "Sorry, could you repeat that?",
+   "不好意思，你能重复一下吗？"
+  ],
+  [
+   "I didn't quite catch that.",
+   "我没太听清。"
+  ],
+  [
+   "Could you say that again, please?",
+   "你能再说一遍吗？"
+  ],
+  [
+   "Can you speak a little slower?",
+   "你能说慢一点吗？"
+  ],
+  [
+   "Sorry, what was that last part?",
+   "不好意思，最后那部分是什么？"
+  ],
+  [
+   "Could you spell that for me?",
+   "你能帮我拼一下吗？"
+  ],
+  [
+   "I'm not sure I got that. Can you rephrase?",
+   "我不确定听懂了。你能换个说法吗？"
+  ]
+ ],
+ "words": [
+  [
+   "repeat",
+   "/rɪˈpiːt/",
+   "重复"
+  ],
+  [
+   "catch",
+   "/kætʃ/",
+   "听清、听懂"
+  ],
+  [
+   "slower",
+   "/ˈsloʊər/",
+   "更慢地"
+  ],
+  [
+   "again",
+   "/əˈɡen/",
+   "再一次"
+  ],
+  [
+   "rephrase",
+   "/riːˈfreɪz/",
+   "换个说法"
+  ],
+  [
+   "spell",
+   "/spel/",
+   "拼写"
+  ],
+  [
+   "last part",
+   "/læst pɑːrt/",
+   "最后部分"
+  ],
+  [
+   "say that again",
+   "/seɪ ðæt əˈɡen/",
+   "再说一遍"
+  ]
+ ]
+}
