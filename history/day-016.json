@@ -1,0 +1,79 @@
+{
+ "day_n": 15,
+ "day": 16,
+ "scene_zh": "咖啡店点单",
+ "round": 1,
+ "focus": "点咖啡、选杯型冷热、堂食或带走",
+ "sentences": [
+  [
+   "Can I have a latte, please?",
+   "我要一杯拿铁，谢谢。"
+  ],
+  [
+   "Hot or iced?",
+   "热的还是冰的？（跟着重复也行）"
+  ],
+  [
+   "Iced, please.",
+   "冰的，谢谢。"
+  ],
+  [
+   "For here, please.",
+   "在这儿喝，谢谢。"
+  ],
+  [
+   "To go, please.",
+   "带走，谢谢。"
+  ],
+  [
+   "Can I get a large one?",
+   "可以给我大杯的吗？"
+  ],
+  [
+   "That's all, thanks.",
+   "就这些，谢谢。"
+  ]
+ ],
+ "words": [
+  [
+   "coffee",
+   "/ˈkɒfi/",
+   "咖啡"
+  ],
+  [
+   "latte",
+   "/ˈlɑːteɪ/",
+   "拿铁"
+  ],
+  [
+   "hot",
+   "/hɒt/",
+   "热的"
+  ],
+  [
+   "iced",
+   "/aɪst/",
+   "冰的"
+  ],
+  [
+   "cup",
+   "/kʌp/",
+   "杯"
+  ],
+  [
+   "large",
+   "/lɑːdʒ/",
+   "大杯的"
+  ],
+  [
+   "for here",
+   "/fɔː hɪə/",
+   "在这儿喝"
+  ],
+  [
+   "to go",
+   "/tə ɡəʊ/",
+   "带走"
+  ]
+ ]
+}
