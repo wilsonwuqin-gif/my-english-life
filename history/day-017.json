@@ -1,0 +1,79 @@
+{
+ "day_n": 16,
+ "day": 17,
+ "scene_zh": "团建与欢送",
+ "round": 1,
+ "focus": "参加活动、寒暄、简短祝词",
+ "sentences": [
+  [
+   "Hey, glad you could make it.",
+   "嘿，很高兴你能来。"
+  ],
+  [
+   "Sorry I'm late.",
+   "不好意思我迟到了。"
+  ],
+  [
+   "This place is nice.",
+   "这地方不错。"
+  ],
+  [
+   "What are you having?",
+   "你要吃什么？"
+  ],
+  [
+   "Let me get this round.",
+   "这轮我来请。"
+  ],
+  [
+   "It's on me.",
+   "我请客。"
+  ],
+  [
+   "Cheers, all the best!",
+   "干杯，一切顺利！"
+  ]
+ ],
+ "words": [
+  [
+   "outing",
+   "/ˈaʊtɪŋ/",
+   "团建出行"
+  ],
+  [
+   "farewell",
+   "/ˌfeəˈwel/",
+   "欢送"
+  ],
+  [
+   "grab a seat",
+   "/ɡræb ə siːt/",
+   "找个位子坐"
+  ],
+  [
+   "round",
+   "/raʊnd/",
+   "一轮（请客）"
+  ],
+  [
+   "It's on me",
+   "/ɪts ɒn miː/",
+   "我请客"
+  ],
+  [
+   "Cheers",
+   "/tʃɪəz/",
+   "干杯"
+  ],
+  [
+   "all the best",
+   "/ɔːl ðə best/",
+   "一切顺利"
+  ],
+  [
+   "keep in touch",
+   "/kiːp ɪn tʌtʃ/",
+   "保持联系"
+  ]
+ ]
+}
