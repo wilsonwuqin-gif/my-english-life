@@ -1,0 +1,79 @@
+{
+ "day_n": 17,
+ "day": 18,
+ "scene_zh": "饮食禁忌与过敏",
+ "round": 1,
+ "focus": "说明不吃什么、过敏原、素食需求",
+ "sentences": [
+  [
+   "I can't eat pork.",
+   "我不能吃猪肉。"
+  ],
+  [
+   "I'm allergic to peanuts.",
+   "我对花生过敏。"
+  ],
+  [
+   "I don't eat beef.",
+   "我不吃牛肉。"
+  ],
+  [
+   "I'm vegetarian.",
+   "我吃素。"
+  ],
+  [
+   "No dairy for me, please.",
+   "请不要给我奶制品。"
+  ],
+  [
+   "I have a seafood allergy.",
+   "我对海鲜过敏。"
+  ],
+  [
+   "Is there any pork in this dish?",
+   "这道菜里有猪肉吗？"
+  ]
+ ],
+ "words": [
+  [
+   "allergic",
+   "/əˈlɜːrdʒɪk/",
+   "过敏的"
+  ],
+  [
+   "allergy",
+   "/ˈælɚdʒi/",
+   "过敏"
+  ],
+  [
+   "peanut",
+   "/ˈpiːnʌt/",
+   "花生"
+  ],
+  [
+   "pork",
+   "/pɔːrk/",
+   "猪肉"
+  ],
+  [
+   "beef",
+   "/biːf/",
+   "牛肉"
+  ],
+  [
+   "vegetarian",
+   "/ˌvedʒəˈteriən/",
+   "素食者"
+  ],
+  [
+   "dairy",
+   "/ˈderi/",
+   "奶制品"
+  ],
+  [
+   "seafood",
+   "/ˈsiːfuːd/",
+   "海鲜"
+  ]
+ ]
+}
