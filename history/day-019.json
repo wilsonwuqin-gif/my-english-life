@@ -1,0 +1,79 @@
+{
+ "day_n": 18,
+ "day": 19,
+ "scene_zh": "出差安排",
+ "round": 1,
+ "focus": "订机票酒店、报销、行程沟通",
+ "sentences": [
+  [
+   "I need to book a flight to Singapore.",
+   "我需要订一张去新加坡的机票。"
+  ],
+  [
+   "Can you help me with the hotel booking?",
+   "你能帮我订酒店吗？"
+  ],
+  [
+   "I'd like a hotel near the project site.",
+   "我想要一家项目现场附近的酒店。"
+  ],
+  [
+   "Please keep the receipt for reimbursement.",
+   "请保留收据用于报销。"
+  ],
+  [
+   "How much is the total cost?",
+   "总费用是多少？"
+  ],
+  [
+   "I need to change my return flight.",
+   "我需要改签回程航班。"
+  ],
+  [
+   "Can I get a refund for this ticket?",
+   "这张票可以退款吗？"
+  ]
+ ],
+ "words": [
+  [
+   "book",
+   "/bʊk/",
+   "预订"
+  ],
+  [
+   "flight",
+   "/flaɪt/",
+   "航班"
+  ],
+  [
+   "hotel",
+   "/hoʊˈtel/",
+   "酒店"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "reimbursement",
+   "/ˌriːɪmˈbɜːrsmənt/",
+   "报销"
+  ],
+  [
+   "round trip",
+   "/ˌraʊnd ˈtrɪp/",
+   "往返"
+  ],
+  [
+   "itinerary",
+   "/aɪˈtɪnəreri/",
+   "行程单"
+  ],
+  [
+   "confirm",
+   "/kənˈfɜːrm/",
+   "确认"
+  ]
+ ]
+}
