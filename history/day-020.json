@@ -1,0 +1,79 @@
+{
+ "day_n": 19,
+ "day": 20,
+ "scene_zh": "打车与网约车",
+ "round": 1,
+ "focus": "说目的地、确认路线、问车费",
+ "sentences": [
+  [
+   "To Singapore General Hospital, please.",
+   "请去新加坡中央医院。"
+  ],
+  [
+   "Can you take the highway?",
+   "你能走高速吗？"
+  ],
+  [
+   "Please take the fastest route.",
+   "请走最快的路线。"
+  ],
+  [
+   "How much will it cost roughly?",
+   "大概多少钱？"
+  ],
+  [
+   "Is the meter running?",
+   "打表了吗？"
+  ],
+  [
+   "Can I get a receipt, please?",
+   "可以给我一张收据吗？"
+  ],
+  [
+   "Please drop me at the main entrance.",
+   "请把我放在正门。"
+  ]
+ ],
+ "words": [
+  [
+   "destination",
+   "/ˌdestɪˈneɪʃn/",
+   "目的地"
+  ],
+  [
+   "route",
+   "/ruːt/",
+   "路线"
+  ],
+  [
+   "highway",
+   "/ˈhaɪweɪ/",
+   "高速公路"
+  ],
+  [
+   "expressway",
+   "/ɪkˈspresweɪ/",
+   "快速路"
+  ],
+  [
+   "meter",
+   "/ˈmiːtər/",
+   "计价器"
+  ],
+  [
+   "fare",
+   "/fer/",
+   "车费"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "entrance",
+   "/ˈentrəns/",
+   "入口"
+  ]
+ ]
+}
