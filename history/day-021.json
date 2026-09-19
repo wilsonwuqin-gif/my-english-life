@@ -1,0 +1,79 @@
+{
+ "day_n": 20,
+ "day": 21,
+ "scene_zh": "外卖与订位",
+ "round": 1,
+ "focus": "电话订位、改人数、点外卖",
+ "sentences": [
+  [
+   "I'd like to book a table for four.",
+   "我想订四个人的位子。"
+  ],
+  [
+   "Can I change the number of people?",
+   "我能改一下人数吗？"
+  ],
+  [
+   "Make it six, please.",
+   "改成六个人。"
+  ],
+  [
+   "Do you have a table at seven thirty?",
+   "七点半有位子吗？"
+  ],
+  [
+   "I'd like to order takeaway.",
+   "我想点外卖。"
+  ],
+  [
+   "Can I pick it up at six?",
+   "我六点来取可以吗？"
+  ],
+  [
+   "How long will it take?",
+   "要多久？"
+  ]
+ ],
+ "words": [
+  [
+   "book",
+   "/bʊk/",
+   "预订"
+  ],
+  [
+   "reservation",
+   "/ˌrezəˈveɪʃn/",
+   "预订"
+  ],
+  [
+   "table for four",
+   "/ˈteɪbl fɔː fɔː/",
+   "四人桌"
+  ],
+  [
+   "takeaway",
+   "/ˈteɪkəweɪ/",
+   "外卖"
+  ],
+  [
+   "pick up",
+   "/pɪk ʌp/",
+   "取餐"
+  ],
+  [
+   "order",
+   "/ˈɔːdə/",
+   "点单"
+  ],
+  [
+   "change",
+   "/tʃeɪndʒ/",
+   "更改"
+  ],
+  [
+   "ready",
+   "/ˈredi/",
+   "准备好了"
+  ]
+ ]
+}
