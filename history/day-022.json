@@ -1,0 +1,79 @@
+{
+ "day_n": 21,
+ "day": 22,
+ "scene_zh": "酒店入住",
+ "round": 3,
+ "focus": "延迟退房、行李寄存",
+ "sentences": [
+  [
+   "Can I have a late check-out tomorrow?",
+   "我明天可以延迟退房吗？"
+  ],
+  [
+   "What is the latest check-out time?",
+   "最晚退房时间是几点？"
+  ],
+  [
+   "Could I check out at 2 p.m. instead?",
+   "我可以改成下午两点退房吗？"
+  ],
+  [
+   "Is there a charge for late check-out?",
+   "延迟退房要收费吗？"
+  ],
+  [
+   "Can I store my luggage here after check-out?",
+   "退房后我可以把行李寄存在这里吗？"
+  ],
+  [
+   "How late can I pick up my bags?",
+   "我最晚可以几点来取行李？"
+  ],
+  [
+   "Do you have a luggage room?",
+   "你们有行李寄存处吗？"
+  ]
+ ],
+ "words": [
+  [
+   "late check-out",
+   "/leɪt ˈtʃek aʊt/",
+   "延迟退房"
+  ],
+  [
+   "check-out time",
+   "/ˈtʃek aʊt taɪm/",
+   "退房时间"
+  ],
+  [
+   "extend",
+   "/ɪkˈstend/",
+   "延长"
+  ],
+  [
+   "front desk",
+   "/frʌnt desk/",
+   "前台"
+  ],
+  [
+   "luggage",
+   "/ˈlʌɡɪdʒ/",
+   "行李"
+  ],
+  [
+   "store",
+   "/stɔːr/",
+   "寄存"
+  ],
+  [
+   "luggage tag",
+   "/ˈlʌɡɪdʒ tæɡ/",
+   "行李牌"
+  ],
+  [
+   "pick up",
+   "/pɪk ʌp/",
+   "取回"
+  ]
+ ]
+}
