@@ -1,0 +1,79 @@
+{
+ "day_n": 22,
+ "day": 23,
+ "scene_zh": "餐厅点餐",
+ "round": 3,
+ "focus": "菜上错了或迟迟不上、催菜",
+ "sentences": [
+  [
+   "Excuse me, sorry to bother you.",
+   "打扰一下，不好意思。"
+  ],
+  [
+   "We ordered about twenty minutes ago.",
+   "我们大概二十分钟前点的。"
+  ],
+  [
+   "Is our food coming?",
+   "我们的菜来了吗？"
+  ],
+  [
+   "Could you please check on it?",
+   "能帮我催一下吗？"
+  ],
+  [
+   "We're really short on time.",
+   "我们真的时间很紧。"
+  ],
+  [
+   "I think this is not what I ordered.",
+   "我觉得这不是我点的。"
+  ],
+  [
+   "Can you make it faster, please?",
+   "能上快一点吗？"
+  ]
+ ],
+ "words": [
+  [
+   "order",
+   "/ˈɔːdə/",
+   "点餐；订单"
+  ],
+  [
+   "delay",
+   "/dɪˈleɪ/",
+   "延误"
+  ],
+  [
+   "check on",
+   "/tʃek ɒn/",
+   "查看；催一下"
+  ],
+  [
+   "rush",
+   "/rʌʃ/",
+   "赶紧做；催"
+  ],
+  [
+   "short on time",
+   "/ʃɔːt ɒn taɪm/",
+   "时间紧"
+  ],
+  [
+   "wrong dish",
+   "/rɒŋ dɪʃ/",
+   "上错的菜"
+  ],
+  [
+   "coming",
+   "/ˈkʌmɪŋ/",
+   "（菜）快来了"
+  ],
+  [
+   "bother",
+   "/ˈbɒðə/",
+   "打扰"
+  ]
+ ]
+}
