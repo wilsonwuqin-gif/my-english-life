@@ -1,0 +1,79 @@
+{
+ "day_n": 23,
+ "day": 24,
+ "scene_zh": "出入境与海关",
+ "round": 1,
+ "focus": "回答访问目的、停留时间、住宿地址",
+ "sentences": [
+  [
+   "I'm here for work.",
+   "我是来工作的。"
+  ],
+  [
+   "I'm an HVAC engineer.",
+   "我是暖通工程师。"
+  ],
+  [
+   "I'm working on a hospital project.",
+   "我在做一个医院项目。"
+  ],
+  [
+   "I'll stay for about six months.",
+   "我会待大约六个月。"
+  ],
+  [
+   "I'm staying at a service apartment.",
+   "我住在一间服务式公寓。"
+  ],
+  [
+   "The address is on this paper.",
+   "地址在这张纸上。"
+  ],
+  [
+   "Here is my return ticket.",
+   "这是我的回程机票。"
+  ]
+ ],
+ "words": [
+  [
+   "purpose",
+   "/ˈpɜːrpəs/",
+   "目的"
+  ],
+  [
+   "visit",
+   "/ˈvɪzɪt/",
+   "访问，到访"
+  ],
+  [
+   "work",
+   "/wɜːrk/",
+   "工作"
+  ],
+  [
+   "project",
+   "/ˈprɒdʒekt/",
+   "项目"
+  ],
+  [
+   "stay",
+   "/steɪ/",
+   "停留，逗留"
+  ],
+  [
+   "address",
+   "/əˈdres/",
+   "地址"
+  ],
+  [
+   "service apartment",
+   "/ˈsɜːrvɪs əˈpɑːrtmənt/",
+   "服务式公寓"
+  ],
+  [
+   "return ticket",
+   "/rɪˈtɜːrn ˈtɪkɪt/",
+   "回程机票"
+  ]
+ ]
+}
