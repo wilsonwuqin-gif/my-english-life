@@ -1,0 +1,79 @@
+{
+ "day_n": 24,
+ "day": 25,
+ "scene_zh": "日常会议",
+ "round": 3,
+ "focus": "礼貌插话与打断",
+ "sentences": [
+  [
+   "Sorry to jump in, but...",
+   "不好意思插一句，但是……"
+  ],
+  [
+   "Can I just add something here?",
+   "我能在这里补充一点吗？"
+  ],
+  [
+   "Sorry to cut in, but...",
+   "抱歉打断一下，但是……"
+  ],
+  [
+   "Just to jump in quickly...",
+   "就快速插一句……"
+  ],
+  [
+   "May I say something here?",
+   "我可以在这里说一句吗？"
+  ],
+  [
+   "If I may, I'd like to add one thing.",
+   "如果可以的话，我想补充一点。"
+  ],
+  [
+   "Sorry, can I stop you there for a second?",
+   "抱歉，我能在这里打断你一下吗？"
+  ]
+ ],
+ "words": [
+  [
+   "jump in",
+   "/dʒʌmp ɪn/",
+   "插话"
+  ],
+  [
+   "cut in",
+   "/kʌt ɪn/",
+   "打断"
+  ],
+  [
+   "add",
+   "/æd/",
+   "补充"
+  ],
+  [
+   "point",
+   "/pɔɪnt/",
+   "观点"
+  ],
+  [
+   "go ahead",
+   "/ɡoʊ əˈhed/",
+   "请讲"
+  ],
+  [
+   "quickly",
+   "/ˈkwɪkli/",
+   "快速地"
+  ],
+  [
+   "noted",
+   "/ˈnoʊtɪd/",
+   "记下了"
+  ],
+  [
+   "if I may",
+   "/ɪf aɪ meɪ/",
+   "如果可以的话"
+  ]
+ ]
+}
