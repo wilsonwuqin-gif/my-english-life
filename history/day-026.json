@@ -1,0 +1,79 @@
+{
+ "day_n": 25,
+ "day": 26,
+ "scene_zh": "机场值机与安检",
+ "round": 3,
+ "focus": "选座、换座、升舱",
+ "sentences": [
+  [
+   "Can I have an aisle seat, please?",
+   "可以给我一个靠过道的座位吗？"
+  ],
+  [
+   "I'd like a window seat if there's one available.",
+   "如果有的话，我想要一个靠窗的座位。"
+  ],
+  [
+   "Is this seat taken?",
+   "这个座位有人吗？"
+  ],
+  [
+   "Could I switch to another seat?",
+   "我可以换个座位吗？"
+  ],
+  [
+   "Can I move to an empty row?",
+   "我可以换到一排空位吗？"
+  ],
+  [
+   "How much does it cost to upgrade?",
+   "升舱要多少钱？"
+  ],
+  [
+   "Is there any chance of a free upgrade?",
+   "有机会免费升舱吗？"
+  ]
+ ],
+ "words": [
+  [
+   "aisle seat",
+   "/aɪl siːt/",
+   "靠过道的座位"
+  ],
+  [
+   "window seat",
+   "/ˈwɪndoʊ siːt/",
+   "靠窗的座位"
+  ],
+  [
+   "upgrade",
+   "/ˈʌpɡreɪd/",
+   "升舱"
+  ],
+  [
+   "business class",
+   "/ˈbɪznəs klæs/",
+   "商务舱"
+  ],
+  [
+   "switch",
+   "/swɪtʃ/",
+   "换"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "可用的"
+  ],
+  [
+   "empty row",
+   "/ˈempti roʊ/",
+   "空的一排"
+  ],
+  [
+   "seat map",
+   "/siːt mæp/",
+   "座位图"
+  ]
+ ]
+}
