@@ -1,0 +1,79 @@
+{
+ "day_n": 26,
+ "day": 27,
+ "scene_zh": "同事闲聊与午餐",
+ "round": 1,
+ "focus": "约午饭、聊周末、聊项目近况",
+ "sentences": [
+  [
+   "Are you free for lunch today?",
+   "你今天有空一起吃午饭吗？"
+  ],
+  [
+   "Where do you want to go for lunch?",
+   "午饭你想去哪儿吃？"
+  ],
+  [
+   "I'm thinking of trying that new place.",
+   "我想试试那家新店。"
+  ],
+  [
+   "What did you do over the weekend?",
+   "你周末干什么了？"
+  ],
+  [
+   "I just stayed home and relaxed.",
+   "我就待在家里放松了一下。"
+  ],
+  [
+   "How's the project going?",
+   "项目进展怎么样？"
+  ],
+  [
+   "We're a bit behind schedule, but catching up.",
+   "我们有点落后进度，不过在赶上来了。"
+  ]
+ ],
+ "words": [
+  [
+   "lunch break",
+   "/lʌntʃ breɪk/",
+   "午休时间"
+  ],
+  [
+   "canteen",
+   "/kænˈtiːn/",
+   "食堂"
+  ],
+  [
+   "grab a bite",
+   "/ɡræb ə baɪt/",
+   "随便吃点"
+  ],
+  [
+   "weekend",
+   "/ˌwiːkˈend/",
+   "周末"
+  ],
+  [
+   "catch up",
+   "/kætʃ ʌp/",
+   "赶上；叙旧"
+  ],
+  [
+   "behind schedule",
+   "/bɪˈhaɪnd ˈʃedjuːl/",
+   "落后进度"
+  ],
+  [
+   "on track",
+   "/ɒn træk/",
+   "按计划进行"
+  ],
+  [
+   "takeaway",
+   "/ˈteɪkəweɪ/",
+   "外卖"
+  ]
+ ]
+}
