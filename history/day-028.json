@@ -1,0 +1,79 @@
+{
+ "day_n": 27,
+ "day": 28,
+ "scene_zh": "商务宴请",
+ "round": 1,
+ "focus": "邀请、安排座位、点菜时照顾客人",
+ "sentences": [
+  [
+   "Please take a seat.",
+   "请坐。"
+  ],
+  [
+   "Would you like to sit here?",
+   "您愿意坐这里吗？"
+  ],
+  [
+   "Is this seat okay for you?",
+   "这个座位您行吗？"
+  ],
+  [
+   "Please help yourself.",
+   "请随意吃。"
+  ],
+  [
+   "Let me order for the table.",
+   "我来帮大家点菜。"
+  ],
+  [
+   "Do you have any food you don't eat?",
+   "您有什么不吃的吗？"
+  ],
+  [
+   "I'll get a few dishes to share.",
+   "我点几个菜大家一起吃。"
+  ]
+ ],
+ "words": [
+  [
+   "seat",
+   "/siːt/",
+   "座位"
+  ],
+  [
+   "menu",
+   "/ˈmenjuː/",
+   "菜单"
+  ],
+  [
+   "dish",
+   "/dɪʃ/",
+   "一道菜"
+  ],
+  [
+   "order",
+   "/ˈɔːdə/",
+   "点菜"
+  ],
+  [
+   "share",
+   "/ʃeə/",
+   "合吃，分着吃"
+  ],
+  [
+   "vegetarian",
+   "/ˌvedʒəˈteəriən/",
+   "吃素的"
+  ],
+  [
+   "allergy",
+   "/ˈælədʒi/",
+   "过敏"
+  ],
+  [
+   "drink",
+   "/drɪŋk/",
+   "饮料"
+  ]
+ ]
+}
