@@ -1,0 +1,79 @@
+{
+ "day_n": 28,
+ "day": 29,
+ "scene_zh": "看医生",
+ "round": 1,
+ "focus": "描述症状、说明多久了、问怎么治",
+ "sentences": [
+  [
+   "I have a sore throat.",
+   "我喉咙痛。"
+  ],
+  [
+   "I have a fever.",
+   "我发烧了。"
+  ],
+  [
+   "I have a headache.",
+   "我头痛。"
+  ],
+  [
+   "It started three days ago.",
+   "三天前开始的。"
+  ],
+  [
+   "I have had this for a week.",
+   "这个症状我有一个星期了。"
+  ],
+  [
+   "It is getting worse.",
+   "越来越严重了。"
+  ],
+  [
+   "What should I do?",
+   "我该怎么办？"
+  ]
+ ],
+ "words": [
+  [
+   "symptom",
+   "/ˈsɪmptəm/",
+   "症状"
+  ],
+  [
+   "sore throat",
+   "/sɔːr θroʊt/",
+   "喉咙痛"
+  ],
+  [
+   "fever",
+   "/ˈfiːvər/",
+   "发烧"
+  ],
+  [
+   "headache",
+   "/ˈhedeɪk/",
+   "头痛"
+  ],
+  [
+   "cough",
+   "/kɔːf/",
+   "咳嗽"
+  ],
+  [
+   "dizzy",
+   "/ˈdɪzi/",
+   "头晕"
+  ],
+  [
+   "prescription",
+   "/prɪˈskrɪpʃn/",
+   "处方"
+  ],
+  [
+   "medicine",
+   "/ˈmedsn/",
+   "药"
+  ]
+ ]
+}
