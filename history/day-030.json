@@ -1,0 +1,79 @@
+{
+ "day_n": 29,
+ "day": 30,
+ "scene_zh": "公共交通购票",
+ "round": 1,
+ "focus": "买票、问换乘、问末班车",
+ "sentences": [
+  [
+   "Single trip, please.",
+   "请给我一张单程票。"
+  ],
+  [
+   "How much is it?",
+   "多少钱？"
+  ],
+  [
+   "Which line do I take?",
+   "我坐哪条线？"
+  ],
+  [
+   "Where do I change?",
+   "我在哪里换乘？"
+  ],
+  [
+   "Do I need to change?",
+   "我需要换乘吗？"
+  ],
+  [
+   "What time is the last train?",
+   "末班车几点？"
+  ],
+  [
+   "Is this the right platform?",
+   "这个站台对吗？"
+  ]
+ ],
+ "words": [
+  [
+   "ticket",
+   "/ˈtɪkɪt/",
+   "票"
+  ],
+  [
+   "single",
+   "/ˈsɪŋɡl/",
+   "单程"
+  ],
+  [
+   "return",
+   "/rɪˈtɜːn/",
+   "往返"
+  ],
+  [
+   "line",
+   "/laɪn/",
+   "线路"
+  ],
+  [
+   "change",
+   "/tʃeɪndʒ/",
+   "换乘"
+  ],
+  [
+   "platform",
+   "/ˈplætfɔːm/",
+   "站台"
+  ],
+  [
+   "last train",
+   "/lɑːst treɪn/",
+   "末班车"
+  ],
+  [
+   "tap",
+   "/tæp/",
+   "刷卡"
+  ]
+ ]
+}
