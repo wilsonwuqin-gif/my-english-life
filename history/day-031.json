@@ -1,0 +1,79 @@
+{
+ "day_n": 30,
+ "day": 31,
+ "scene_zh": "退换货",
+ "round": 1,
+ "focus": "说明要退换、出示小票、问政策",
+ "sentences": [
+  [
+   "I'd like to return this item.",
+   "我想退这件东西。"
+  ],
+  [
+   "Can I exchange this for a new one?",
+   "我能换一个新的吗？"
+  ],
+  [
+   "Here is my receipt.",
+   "这是我的小票。"
+  ],
+  [
+   "Do you have the receipt?",
+   "你有小票吗？"
+  ],
+  [
+   "What's your return policy?",
+   "你们的退货政策是什么？"
+  ],
+  [
+   "Can I get a refund?",
+   "我可以退款吗？"
+  ],
+  [
+   "I bought it last week.",
+   "我上周买的。"
+  ]
+ ],
+ "words": [
+  [
+   "return",
+   "/rɪˈtɜːn/",
+   "退货"
+  ],
+  [
+   "exchange",
+   "/ɪksˈtʃeɪndʒ/",
+   "换货"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "小票"
+  ],
+  [
+   "refund",
+   "/ˈriːfʌnd/",
+   "退款"
+  ],
+  [
+   "policy",
+   "/ˈpɒləsi/",
+   "政策"
+  ],
+  [
+   "item",
+   "/ˈaɪtəm/",
+   "物品"
+  ],
+  [
+   "purchase",
+   "/ˈpɜːtʃəs/",
+   "购买"
+  ],
+  [
+   "original",
+   "/əˈrɪdʒənl/",
+   "原始的"
+  ]
+ ]
+}
