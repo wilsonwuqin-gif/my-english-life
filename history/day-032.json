@@ -1,0 +1,79 @@
+{
+ "day_n": 31,
+ "day": 32,
+ "scene_zh": "租车",
+ "round": 1,
+ "focus": "取车、确认车型与保险、问还车地点",
+ "sentences": [
+  [
+   "I have a booking under Zhang.",
+   "我用 Zhang 这个名字订了车。"
+  ],
+  [
+   "Is this the car I booked?",
+   "这是我订的那辆车吗？"
+  ],
+  [
+   "Can I see the car first?",
+   "我能先看看车吗？"
+  ],
+  [
+   "I want full coverage insurance.",
+   "我要全险。"
+  ],
+  [
+   "What does the insurance cover?",
+   "这个保险保什么？"
+  ],
+  [
+   "Where do I return the car?",
+   "我在哪里还车？"
+  ],
+  [
+   "What time do you close?",
+   "你们几点关门？"
+  ]
+ ],
+ "words": [
+  [
+   "booking",
+   "/ˈbʊkɪŋ/",
+   "预订"
+  ],
+  [
+   "pick up",
+   "/pɪk ʌp/",
+   "取车"
+  ],
+  [
+   "compact",
+   "/kəmˈpækt/",
+   "小型的"
+  ],
+  [
+   "automatic",
+   "/ˌɔːtəˈmætɪk/",
+   "自动挡"
+  ],
+  [
+   "coverage",
+   "/ˈkʌvərɪdʒ/",
+   "保险范围"
+  ],
+  [
+   "full insurance",
+   "/fʊl ɪnˈʃʊərəns/",
+   "全险"
+  ],
+  [
+   "return",
+   "/rɪˈtɜːn/",
+   "还车"
+  ],
+  [
+   "deposit",
+   "/dɪˈpɒzɪt/",
+   "押金"
+  ]
+ ]
+}
