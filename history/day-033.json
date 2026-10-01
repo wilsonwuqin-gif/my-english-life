@@ -1,0 +1,79 @@
+{
+ "day_n": 32,
+ "day": 33,
+ "scene_zh": "餐厅点餐",
+ "round": 4,
+ "focus": "打包、分单、AA 结账",
+ "sentences": [
+  [
+   "Can I get this to go?",
+   "这个能帮我打包吗？"
+  ],
+  [
+   "Could I get a box for this, please?",
+   "能给我个盒子打包这个吗？"
+  ],
+  [
+   "Can we split the bill, please?",
+   "我们能分单吗？"
+  ],
+  [
+   "Two separate checks, please.",
+   "请开两张单。"
+  ],
+  [
+   "Let's go Dutch on this.",
+   "我们AA吧。"
+  ],
+  [
+   "Can I pay for just my share?",
+   "我能只付我这份吗？"
+  ],
+  [
+   "Could you pack the rest for me?",
+   "剩下的帮我打包好吗？"
+  ]
+ ],
+ "words": [
+  [
+   "to go",
+   "/tə ɡoʊ/",
+   "打包带走"
+  ],
+  [
+   "box",
+   "/bɑːks/",
+   "打包盒"
+  ],
+  [
+   "split the bill",
+   "/splɪt ðə bɪl/",
+   "分单"
+  ],
+  [
+   "separate checks",
+   "/ˈseprət tʃeks/",
+   "分开的账单"
+  ],
+  [
+   "go Dutch",
+   "/ɡoʊ dʌtʃ/",
+   "各付各的，AA制"
+  ],
+  [
+   "my share",
+   "/maɪ ʃer/",
+   "我这份"
+  ],
+  [
+   "leftover",
+   "/ˈleftoʊvər/",
+   "剩菜"
+  ],
+  [
+   "pack up",
+   "/pæk ʌp/",
+   "打包"
+  ]
+ ]
+}
