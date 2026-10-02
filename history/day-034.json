@@ -1,0 +1,79 @@
+{
+ "day_n": 33,
+ "day": 34,
+ "scene_zh": "酒店入住",
+ "round": 4,
+ "focus": "客房服务、叫醒服务、要加毛巾和水",
+ "sentences": [
+  [
+   "Can I get some extra towels?",
+   "可以多给我几条毛巾吗？"
+  ],
+  [
+   "Could you send up two bottles of water?",
+   "可以送两瓶水上来吗？"
+  ],
+  [
+   "I'd like a wake-up call at six thirty.",
+   "我想设六点半的叫醒服务。"
+  ],
+  [
+   "Can I get more toilet paper?",
+   "可以再给我一些卫生纸吗？"
+  ],
+  [
+   "Could you bring them to my room?",
+   "可以送到我房间吗？"
+  ],
+  [
+   "I need a few more hangers.",
+   "我需要多几个衣架。"
+  ],
+  [
+   "Can I get an extra pillow?",
+   "可以多给我一个枕头吗？"
+  ]
+ ],
+ "words": [
+  [
+   "extra towels",
+   "/ˈekstrə ˈtaʊəlz/",
+   "额外的毛巾"
+  ],
+  [
+   "wake-up call",
+   "/ˈweɪk ʌp kɔːl/",
+   "叫醒服务"
+  ],
+  [
+   "bottled water",
+   "/ˈbɒtld ˈwɔːtə/",
+   "瓶装水"
+  ],
+  [
+   "room service",
+   "/ruːm ˈsɜːvɪs/",
+   "客房服务"
+  ],
+  [
+   "hangers",
+   "/ˈhæŋəz/",
+   "衣架"
+  ],
+  [
+   "pillow",
+   "/ˈpɪləʊ/",
+   "枕头"
+  ],
+  [
+   "toilet paper",
+   "/ˈtɔɪlɪt ˈpeɪpə/",
+   "卫生纸"
+  ],
+  [
+   "send up",
+   "/send ʌp/",
+   "送上来"
+  ]
+ ]
+}
