@@ -1,0 +1,79 @@
+{
+ "day_n": 34,
+ "day": 35,
+ "scene_zh": "服装购物",
+ "round": 1,
+ "focus": "问尺码颜色、试衣、问价格",
+ "sentences": [
+  [
+   "Do you have this in medium?",
+   "这件有中码吗？"
+  ],
+  [
+   "Do you have a bigger size?",
+   "有大一点的尺码吗？"
+  ],
+  [
+   "Can I try it on?",
+   "我可以试穿吗？"
+  ],
+  [
+   "Where is the fitting room?",
+   "试衣间在哪里？"
+  ],
+  [
+   "Do you have this in blue?",
+   "这件有蓝色的吗？"
+  ],
+  [
+   "How much is this?",
+   "这件多少钱？"
+  ],
+  [
+   "I'll take this one.",
+   "我买这件。"
+  ]
+ ],
+ "words": [
+  [
+   "size",
+   "/saɪz/",
+   "尺码"
+  ],
+  [
+   "medium",
+   "/ˈmiːdiəm/",
+   "中码"
+  ],
+  [
+   "large",
+   "/lɑːdʒ/",
+   "大码"
+  ],
+  [
+   "small",
+   "/smɔːl/",
+   "小码"
+  ],
+  [
+   "color",
+   "/ˈkʌlər/",
+   "颜色"
+  ],
+  [
+   "try on",
+   "/traɪ ɒn/",
+   "试穿"
+  ],
+  [
+   "fitting room",
+   "/ˈfɪtɪŋ ruːm/",
+   "试衣间"
+  ],
+  [
+   "price",
+   "/praɪs/",
+   "价格"
+  ]
+ ]
+}
