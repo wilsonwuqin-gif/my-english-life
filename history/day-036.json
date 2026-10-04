@@ -1,0 +1,79 @@
+{
+ "day_n": 35,
+ "day": 36,
+ "scene_zh": "日常会议",
+ "round": 4,
+ "focus": "表达同意、保留与反对",
+ "sentences": [
+  [
+   "That makes sense.",
+   "有道理。"
+  ],
+  [
+   "I agree with you on that.",
+   "这一点我同意你。"
+  ],
+  [
+   "Sounds good to me.",
+   "我觉得可以。"
+  ],
+  [
+   "I see your point, but...",
+   "我明白你的意思，但是……"
+  ],
+  [
+   "I'm not so sure about that.",
+   "这个我不太确定。"
+  ],
+  [
+   "I have to disagree there.",
+   "这一点我不能同意。"
+  ],
+  [
+   "Can we look at this another way?",
+   "我们能不能换个角度看？"
+  ]
+ ],
+ "words": [
+  [
+   "agree",
+   "/əˈɡriː/",
+   "同意"
+  ],
+  [
+   "disagree",
+   "/ˌdɪsəˈɡriː/",
+   "不同意"
+  ],
+  [
+   "point",
+   "/pɔɪnt/",
+   "观点"
+  ],
+  [
+   "concern",
+   "/kənˈsɜːn/",
+   "顾虑"
+  ],
+  [
+   "suggest",
+   "/səˈdʒest/",
+   "建议"
+  ],
+  [
+   "option",
+   "/ˈɒpʃn/",
+   "选项"
+  ],
+  [
+   "lead time",
+   "/ˈliːd taɪm/",
+   "交货周期"
+  ],
+  [
+   "push back",
+   "/pʊʃ bæk/",
+   "反对、推迟"
+  ]
+ ]
+}
