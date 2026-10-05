@@ -1,0 +1,79 @@
+{
+ "day_n": 36,
+ "day": 37,
+ "scene_zh": "机场值机与安检",
+ "round": 4,
+ "focus": "安检流程、液体与电子设备",
+ "sentences": [
+  [
+   "Do I need to take my laptop out?",
+   "我需要把笔记本电脑拿出来吗？"
+  ],
+  [
+   "Should I put my phone in the tray?",
+   "手机要放托盘里吗？"
+  ],
+  [
+   "Do I need to take off my shoes?",
+   "我需要脱鞋吗？"
+  ],
+  [
+   "I have a power bank in my bag.",
+   "我包里有个充电宝。"
+  ],
+  [
+   "Is this liquid okay to carry on?",
+   "这个液体能随身带吗？"
+  ],
+  [
+   "Can I bring this through security?",
+   "这个能过安检吗？"
+  ],
+  [
+   "Where should I put my watch?",
+   "我的手表放哪里？"
+  ]
+ ],
+ "words": [
+  [
+   "liquid",
+   "/ˈlɪkwɪd/",
+   "液体"
+  ],
+  [
+   "tray",
+   "/treɪ/",
+   "托盘"
+  ],
+  [
+   "power bank",
+   "/ˈpaʊər bæŋk/",
+   "充电宝"
+  ],
+  [
+   "carry-on",
+   "/ˈkæri ɒn/",
+   "随身行李"
+  ],
+  [
+   "security check",
+   "/sɪˈkjʊərəti tʃek/",
+   "安检"
+  ],
+  [
+   "belt",
+   "/belt/",
+   "皮带"
+  ],
+  [
+   "pocket",
+   "/ˈpɒkɪt/",
+   "口袋"
+  ],
+  [
+   "milliliter",
+   "/ˈmɪliliːtər/",
+   "毫升"
+  ]
+ ]
+}
