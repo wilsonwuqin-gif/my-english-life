@@ -1,0 +1,79 @@
+{
+ "day_n": 37,
+ "day": 38,
+ "scene_zh": "交换联系方式",
+ "round": 1,
+ "focus": "要微信或邮箱、说明后续联系",
+ "sentences": [
+  [
+   "Can I get your WeChat?",
+   "可以加你微信吗？"
+  ],
+  [
+   "Let me give you my email.",
+   "我把邮箱给你吧。"
+  ],
+  [
+   "My email is very easy. Let me write it down.",
+   "我的邮箱很简单，我写下来给你。"
+  ],
+  [
+   "Do you use WhatsApp here?",
+   "你们这边用WhatsApp吗？"
+  ],
+  [
+   "I'll send you the drawing later.",
+   "我晚点把图纸发给你。"
+  ],
+  [
+   "Let's keep in touch.",
+   "我们保持联系。"
+  ],
+  [
+   "Just email me if you have any questions.",
+   "有任何问题直接发邮件给我。"
+  ]
+ ],
+ "words": [
+  [
+   "WeChat",
+   "/ˈwiːtʃæt/",
+   "微信"
+  ],
+  [
+   "email",
+   "/ˈiːmeɪl/",
+   "邮箱"
+  ],
+  [
+   "contact",
+   "/ˈkɒntækt/",
+   "联系方式"
+  ],
+  [
+   "send",
+   "/send/",
+   "发送"
+  ],
+  [
+   "drawing",
+   "/ˈdrɔːɪŋ/",
+   "图纸"
+  ],
+  [
+   "WhatsApp",
+   "/ˈwɒtsæp/",
+   "WhatsApp"
+  ],
+  [
+   "keep in touch",
+   "/kiːp ɪn tʌtʃ/",
+   "保持联系"
+  ],
+  [
+   "write down",
+   "/raɪt daʊn/",
+   "写下来"
+  ]
+ ]
+}
