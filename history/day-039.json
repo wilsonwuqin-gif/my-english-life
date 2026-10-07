@@ -1,0 +1,79 @@
+{
+ "day_n": 38,
+ "day": 39,
+ "scene_zh": "超市与结账",
+ "round": 1,
+ "focus": "问商品在哪、自助结账、要袋子",
+ "sentences": [
+  [
+   "Excuse me, where can I find the milk?",
+   "不好意思，请问牛奶在哪里？"
+  ],
+  [
+   "Which aisle is the rice in?",
+   "大米在哪个通道？"
+  ],
+  [
+   "Do you have self-checkout here?",
+   "你们这里有自助结账吗？"
+  ],
+  [
+   "How do I scan this?",
+   "这个我怎么扫？"
+  ],
+  [
+   "Can I get a bag, please?",
+   "请给我一个袋子好吗？"
+  ],
+  [
+   "I need one more bag.",
+   "我还需要再一个袋子。"
+  ],
+  [
+   "It says please wait for assistance.",
+   "它显示请等待工作人员协助。"
+  ]
+ ],
+ "words": [
+  [
+   "aisle",
+   "/aɪl/",
+   "通道"
+  ],
+  [
+   "self-checkout",
+   "/ˌself ˈtʃekaʊt/",
+   "自助结账"
+  ],
+  [
+   "scan",
+   "/skæn/",
+   "扫码"
+  ],
+  [
+   "bag",
+   "/bæɡ/",
+   "袋子"
+  ],
+  [
+   "cashier",
+   "/kæˈʃɪə/",
+   "收银员"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "小票"
+  ],
+  [
+   "trolley",
+   "/ˈtrɒli/",
+   "购物车"
+  ],
+  [
+   "shelf",
+   "/ʃelf/",
+   "货架"
+  ]
+ ]
+}
