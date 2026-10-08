@@ -1,0 +1,79 @@
+{
+ "day_n": 39,
+ "day": 40,
+ "scene_zh": "初次见面",
+ "round": 1,
+ "focus": "自我介绍、说职业与来处、交换称呼",
+ "sentences": [
+  [
+   "I'm Li Wei. Nice to meet you.",
+   "我是李伟。很高兴认识你。"
+  ],
+  [
+   "I'm from China. I work in Singapore now.",
+   "我来自中国。我现在在新加坡工作。"
+  ],
+  [
+   "I'm an HVAC engineer.",
+   "我是暖通工程师。"
+  ],
+  [
+   "I just joined this project.",
+   "我刚加入这个项目。"
+  ],
+  [
+   "Please call me Wei.",
+   "请叫我伟就行。"
+  ],
+  [
+   "What should I call you?",
+   "我该怎么称呼你？"
+  ],
+  [
+   "I work for a contractor.",
+   "我在一家承包商公司工作。"
+  ]
+ ],
+ "words": [
+  [
+   "introduce",
+   "/ˌɪntrəˈdjuːs/",
+   "介绍"
+  ],
+  [
+   "engineer",
+   "/ˌendʒɪˈnɪə/",
+   "工程师"
+  ],
+  [
+   "HVAC",
+   "/ˌeɪtʃ viː eɪ ˈsiː/",
+   "暖通空调"
+  ],
+  [
+   "automation",
+   "/ˌɔːtəˈmeɪʃn/",
+   "自动化"
+  ],
+  [
+   "project",
+   "/ˈprɒdʒekt/",
+   "项目"
+  ],
+  [
+   "contractor",
+   "/kənˈtræktə/",
+   "承包商"
+  ],
+  [
+   "colleague",
+   "/ˈkɒliːɡ/",
+   "同事"
+  ],
+  [
+   "hospital",
+   "/ˈhɒspɪtl/",
+   "医院"
+  ]
+ ]
+}
