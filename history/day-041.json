@@ -1,0 +1,79 @@
+{
+ "day_n": 40,
+ "day": 41,
+ "scene_zh": "航班延误与改签",
+ "round": 1,
+ "focus": "问延误原因、问改签、问补偿",
+ "sentences": [
+  [
+   "Why is my flight delayed?",
+   "我的航班为什么延误？"
+  ],
+  [
+   "How long is the delay?",
+   "延误多久？"
+  ],
+  [
+   "Can you rebook me on the next flight?",
+   "你能帮我改签下一班吗？"
+  ],
+  [
+   "Is there an earlier flight?",
+   "有更早的航班吗？"
+  ],
+  [
+   "Can I get compensation for this delay?",
+   "这个延误我能得到补偿吗？"
+  ],
+  [
+   "Do I need to pay for the rebooking?",
+   "改签需要付钱吗？"
+  ],
+  [
+   "Please let me know when the gate changes.",
+   "登机口有变化请通知我。"
+  ]
+ ],
+ "words": [
+  [
+   "delay",
+   "/dɪˈleɪ/",
+   "延误"
+  ],
+  [
+   "rebook",
+   "/ˌriːˈbʊk/",
+   "改签"
+  ],
+  [
+   "compensation",
+   "/ˌkɒmpenˈseɪʃn/",
+   "补偿"
+  ],
+  [
+   "flight",
+   "/flaɪt/",
+   "航班"
+  ],
+  [
+   "gate",
+   "/ɡeɪt/",
+   "登机口"
+  ],
+  [
+   "boarding pass",
+   "/ˈbɔːdɪŋ pæs/",
+   "登机牌"
+  ],
+  [
+   "earlier flight",
+   "/ˈɜːliə flaɪt/",
+   "更早的航班"
+  ],
+  [
+   "next flight",
+   "/nekst flaɪt/",
+   "下一班航班"
+  ]
+ ]
+}
