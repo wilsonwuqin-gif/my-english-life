@@ -1,0 +1,79 @@
+{
+ "day_n": 41,
+ "day": 42,
+ "scene_zh": "理发店",
+ "round": 1,
+ "focus": "预约、说明剪多短、洗剪吹",
+ "sentences": [
+  [
+   "I have an appointment at three.",
+   "我约了三点。"
+  ],
+  [
+   "Can I book for tomorrow?",
+   "我可以约明天吗？"
+  ],
+  [
+   "Just a wash and cut, please.",
+   "就洗剪吹，谢谢。"
+  ],
+  [
+   "Short on the sides, please.",
+   "两边剪短一点。"
+  ],
+  [
+   "Just a little off the top.",
+   "上面稍微修一点。"
+  ],
+  [
+   "Not too short, please.",
+   "不要太短。"
+  ],
+  [
+   "That looks great. Thank you.",
+   "看起来很好，谢谢。"
+  ]
+ ],
+ "words": [
+  [
+   "appointment",
+   "/əˈpɔɪntmənt/",
+   "预约"
+  ],
+  [
+   "book",
+   "/bʊk/",
+   "预约"
+  ],
+  [
+   "wash and cut",
+   "/wɒʃ ənd kʌt/",
+   "洗剪"
+  ],
+  [
+   "sides",
+   "/saɪdz/",
+   "两鬓、两侧"
+  ],
+  [
+   "top",
+   "/tɒp/",
+   "头顶"
+  ],
+  [
+   "a little off",
+   "/ə ˈlɪtl ɒf/",
+   "稍微剪掉一点"
+  ],
+  [
+   "trim",
+   "/trɪm/",
+   "修剪"
+  ],
+  [
+   "not too short",
+   "/nɒt tuː ʃɔːt/",
+   "不要太短"
+  ]
+ ]
+}
