@@ -1,0 +1,79 @@
+{
+ "day_n": 42,
+ "day": 43,
+ "scene_zh": "餐厅点餐",
+ "round": 5,
+ "focus": "看不懂菜单、问做法与分量",
+ "sentences": [
+  [
+   "What's in this dish?",
+   "这道菜里有什么？"
+  ],
+  [
+   "How is this cooked?",
+   "这个是怎么做的？"
+  ],
+  [
+   "Is this very spicy?",
+   "这个很辣吗？"
+  ],
+  [
+   "How big is the portion?",
+   "分量有多大？"
+  ],
+  [
+   "Is it enough for one person?",
+   "一个人够吃吗？"
+  ],
+  [
+   "Does this come with rice?",
+   "这个配米饭吗？"
+  ],
+  [
+   "Can you make it less salty?",
+   "能做得淡一点吗？"
+  ]
+ ],
+ "words": [
+  [
+   "dish",
+   "/dɪʃ/",
+   "菜肴"
+  ],
+  [
+   "portion",
+   "/ˈpɔːʃn/",
+   "分量"
+  ],
+  [
+   "grilled",
+   "/ɡrɪld/",
+   "烤的"
+  ],
+  [
+   "steamed",
+   "/stiːmd/",
+   "蒸的"
+  ],
+  [
+   "fried",
+   "/fraɪd/",
+   "炸的"
+  ],
+  [
+   "spicy",
+   "/ˈspaɪsi/",
+   "辣的"
+  ],
+  [
+   "sauce",
+   "/sɔːs/",
+   "酱汁"
+  ],
+  [
+   "ingredient",
+   "/ɪnˈɡriːdiənt/",
+   "食材"
+  ]
+ ]
+}
