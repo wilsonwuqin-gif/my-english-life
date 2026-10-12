@@ -1,0 +1,79 @@
+{
+ "day_n": 43,
+ "day": 44,
+ "scene_zh": "酒店入住",
+ "round": 5,
+ "focus": "早餐时间地点、餐券与自助餐",
+ "sentences": [
+  [
+   "What time is breakfast served?",
+   "早餐几点供应？"
+  ],
+  [
+   "Where is the breakfast room?",
+   "早餐厅在哪里？"
+  ],
+  [
+   "Do I need a breakfast voucher?",
+   "我需要早餐券吗？"
+  ],
+  [
+   "Is breakfast included in my room rate?",
+   "我的房费含早餐吗？"
+  ],
+  [
+   "Is it a buffet or set menu?",
+   "是自助餐还是套餐？"
+  ],
+  [
+   "Can I take breakfast to my room?",
+   "我能把早餐带回房间吗？"
+  ],
+  [
+   "I'll come down around seven then.",
+   "那我七点左右下来。"
+  ]
+ ],
+ "words": [
+  [
+   "buffet",
+   "/bəˈfeɪ/",
+   "自助餐"
+  ],
+  [
+   "voucher",
+   "/ˈvaʊtʃə/",
+   "餐券"
+  ],
+  [
+   "room rate",
+   "/ruːm reɪt/",
+   "房费"
+  ],
+  [
+   "included",
+   "/ɪnˈkluːdɪd/",
+   "包含在内的"
+  ],
+  [
+   "breakfast room",
+   "/ˈbrekfəst ruːm/",
+   "早餐厅"
+  ],
+  [
+   "serve",
+   "/sɜːv/",
+   "供应"
+  ],
+  [
+   "set menu",
+   "/set ˈmenjuː/",
+   "套餐"
+  ],
+  [
+   "grab a bite",
+   "/ɡræb ə baɪt/",
+   "随便吃点"
+  ]
+ ]
+}
