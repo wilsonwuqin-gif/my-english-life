@@ -1,0 +1,79 @@
+{
+ "day_n": 44,
+ "day": 45,
+ "scene_zh": "婉拒与告别",
+ "round": 1,
+ "focus": "拒绝邀约、告辞、约下次",
+ "sentences": [
+  [
+   "Thanks, but I can't tonight.",
+   "谢谢，但今晚不行。"
+  ],
+  [
+   "I've got something on.",
+   "我有事。"
+  ],
+  [
+   "Maybe another time.",
+   "改天吧。"
+  ],
+  [
+   "Sounds good, but not today.",
+   "不错，但今天不行。"
+  ],
+  [
+   "I'd better get going.",
+   "我得走了。"
+  ],
+  [
+   "Let's catch up soon.",
+   "我们尽快聚聚。"
+  ],
+  [
+   "Have a good one. See you.",
+   "玩得开心，再见。"
+  ]
+ ],
+ "words": [
+  [
+   "decline",
+   "/dɪˈklaɪn/",
+   "婉拒"
+  ],
+  [
+   "invite",
+   "/ɪnˈvaɪt/",
+   "邀请"
+  ],
+  [
+   "join",
+   "/dʒɔɪn/",
+   "加入"
+  ],
+  [
+   "another time",
+   "/əˈnʌðə taɪm/",
+   "改天"
+  ],
+  [
+   "catch up",
+   "/kætʃ ʌp/",
+   "聚聚聊聊"
+  ],
+  [
+   "get going",
+   "/ɡet ˈɡoʊɪŋ/",
+   "该走了"
+  ],
+  [
+   "for sure",
+   "/fɔːr ʃʊr/",
+   "一定，当然"
+  ],
+  [
+   "see you",
+   "/siː juː/",
+   "再见"
+  ]
+ ]
+}
