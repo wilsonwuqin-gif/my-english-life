@@ -1,0 +1,79 @@
+{
+ "day_n": 45,
+ "day": 46,
+ "scene_zh": "日常会议",
+ "round": 5,
+ "focus": "请对方展开说明、追问细节",
+ "sentences": [
+  [
+   "Could you say a bit more about that?",
+   "你能再多说一点吗？"
+  ],
+  [
+   "What do you mean exactly?",
+   "你具体是什么意思？"
+  ],
+  [
+   "Can you give me an example?",
+   "你能给我举个例子吗？"
+  ],
+  [
+   "Sorry, I didn't catch that. Could you repeat it?",
+   "抱歉，我没听清。你能再说一遍吗？"
+  ],
+  [
+   "So if I understand you right, you're saying...",
+   "所以如果我理解得对，你的意思是……"
+  ],
+  [
+   "Just to be clear, are you talking about the whole floor?",
+   "我确认一下，你说的是整层楼吗？"
+  ],
+  [
+   "Who will handle that part, and by when?",
+   "那部分由谁负责，什么时候完成？"
+  ]
+ ],
+ "words": [
+  [
+   "walk through",
+   "/wɔːk θruː/",
+   "逐步说明，过一遍"
+  ],
+  [
+   "exactly",
+   "/ɪɡˈzæktli/",
+   "确切地"
+  ],
+  [
+   "pending",
+   "/ˈpendɪŋ/",
+   "待处理的"
+  ],
+  [
+   "sign-off",
+   "/ˈsaɪn ɒf/",
+   "签字验收"
+  ],
+  [
+   "commissioning",
+   "/kəˈmɪʃənɪŋ/",
+   "调试，试运行"
+  ],
+  [
+   "focus on",
+   "/ˈfoʊkəs ɒn/",
+   "集中在"
+  ],
+  [
+   "confirm",
+   "/kənˈfɜːrm/",
+   "确认"
+  ],
+  [
+   "deadline",
+   "/ˈdedlaɪn/",
+   "截止时间"
+  ]
+ ]
+}
