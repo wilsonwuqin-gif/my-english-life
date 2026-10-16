@@ -1,0 +1,79 @@
+{
+ "day_n": 47,
+ "day": 48,
+ "scene_zh": "闲聊话题",
+ "round": 2,
+ "focus": "接住话题并反问、从闲聊过渡到正事",
+ "sentences": [
+  [
+   "How is your day going so far?",
+   "你今天过得怎么样？"
+  ],
+  [
+   "Not bad, thanks. How about yours?",
+   "还不错，谢谢。你呢？"
+  ],
+  [
+   "I know what you mean.",
+   "我懂你意思。"
+  ],
+  [
+   "Speaking of which, can I ask you something?",
+   "说到这个，我能问你一件事吗？"
+  ],
+  [
+   "Sorry, I have to run, but can we talk about this later?",
+   "不好意思我得走了，这个我们晚点聊行吗？"
+  ],
+  [
+   "Actually, while I have you here, let me ask you something.",
+   "趁你在这儿，我顺便问你一件事。"
+  ],
+  [
+   "Can we set up a quick chat about the valve schedule?",
+   "我们能约个短会聊一下阀门进度吗？"
+  ]
+ ],
+ "words": [
+  [
+   "so far",
+   "/soʊ fɑːr/",
+   "到目前为止"
+  ],
+  [
+   "speaking of which",
+   "/ˈspiːkɪŋ əv wɪtʃ/",
+   "说到这个"
+  ],
+  [
+   "while I have you here",
+   "/waɪl aɪ hæv juː hɪr/",
+   "趁你在这儿"
+  ],
+  [
+   "set up",
+   "/set ʌp/",
+   "安排，约"
+  ],
+  [
+   "quick chat",
+   "/kwɪk tʃæt/",
+   "简短聊一下"
+  ],
+  [
+   "have to run",
+   "/hæv tuː rʌn/",
+   "得走了"
+  ],
+  [
+   "coordination",
+   "/koʊˌɔːrdɪˈneɪʃn/",
+   "协调"
+  ],
+  [
+   "schedule",
+   "/ˈskedʒuːl/",
+   "进度，日程"
+  ]
+ ]
+}
