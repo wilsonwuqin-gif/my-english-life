@@ -1,0 +1,79 @@
+{
+ "day_n": 48,
+ "day": 49,
+ "scene_zh": "问路与方向",
+ "round": 2,
+ "focus": "没听懂时请对方重复或换个说法",
+ "sentences": [
+  [
+   "Sorry, I didn't catch that.",
+   "不好意思，我没听清。"
+  ],
+  [
+   "Could you say it again, please?",
+   "你能再说一遍吗？"
+  ],
+  [
+   "Can you say it more slowly?",
+   "你能说慢一点吗？"
+  ],
+  [
+   "Sorry, what do you mean by that?",
+   "不好意思，你那句话是什么意思？"
+  ],
+  [
+   "Can you use simpler words?",
+   "你能用简单点的词说吗？"
+  ],
+  [
+   "Sorry, I still don't follow.",
+   "不好意思，我还是没跟上。"
+  ],
+  [
+   "Could you spell that for me?",
+   "你能帮我拼一下吗？"
+  ]
+ ],
+ "words": [
+  [
+   "catch",
+   "/kætʃ/",
+   "听清，听懂"
+  ],
+  [
+   "repeat",
+   "/rɪˈpiːt/",
+   "重复"
+  ],
+  [
+   "slowly",
+   "/ˈsləʊli/",
+   "慢慢地"
+  ],
+  [
+   "simpler",
+   "/ˈsɪmplə/",
+   "更简单的"
+  ],
+  [
+   "follow",
+   "/ˈfɒləʊ/",
+   "跟上，理解"
+  ],
+  [
+   "mean",
+   "/miːn/",
+   "意思是"
+  ],
+  [
+   "spell",
+   "/spel/",
+   "拼写"
+  ],
+  [
+   "pardon",
+   "/ˈpɑːdn/",
+   "请再说一遍"
+  ]
+ ]
+}
