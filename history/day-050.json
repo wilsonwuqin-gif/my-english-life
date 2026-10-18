@@ -1,0 +1,79 @@
+{
+ "day_n": 49,
+ "day": 50,
+ "scene_zh": "派对与社交场合",
+ "round": 1,
+ "focus": "加入一群人的对话、端酒寒暄",
+ "sentences": [
+  [
+   "Mind if I join you?",
+   ""
+  ],
+  [
+   "Do you mind if I jump in?",
+   ""
+  ],
+  [
+   "What are you guys talking about?",
+   ""
+  ],
+  [
+   "Cheers! Nice to meet you.",
+   ""
+  ],
+  [
+   "I'll grab a drink first.",
+   ""
+  ],
+  [
+   "How's your project going?",
+   ""
+  ],
+  [
+   "I'm not great at parties, but I'm trying.",
+   ""
+  ]
+ ],
+ "words": [
+  [
+   "join",
+   "/dʒɔɪn/",
+   "加入"
+  ],
+  [
+   "cheers",
+   "/tʃɪrz/",
+   "干杯"
+  ],
+  [
+   "grab",
+   "/ɡræb/",
+   "随手拿"
+  ],
+  [
+   "chat",
+   "/tʃæt/",
+   "闲聊"
+  ],
+  [
+   "round",
+   "/raʊnd/",
+   "一轮（请酒）"
+  ],
+  [
+   "toast",
+   "/toʊst/",
+   "敬酒"
+  ],
+  [
+   "project",
+   "/ˈprɑːdʒekt/",
+   "项目"
+  ],
+  [
+   "catch up",
+   "/kætʃ ʌp/",
+   "叙旧、聊近况"
+  ]
+ ]
+}
