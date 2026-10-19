@@ -1,0 +1,79 @@
+{
+ "day_n": 50,
+ "day": 51,
+ "scene_zh": "快递与邮寄",
+ "round": 1,
+ "focus": "寄件、填地址、问时效与费用",
+ "sentences": [
+  [
+   "I need to ship this parcel to Singapore.",
+   "我需要把这个包裹寄到新加坡。"
+  ],
+  [
+   "Can you check how much it costs?",
+   "你能查一下多少钱吗？"
+  ],
+  [
+   "How long does it take to arrive?",
+   "到那里要多久？"
+  ],
+  [
+   "Please fill in the address on this form.",
+   "请在这张表上填地址。"
+  ],
+  [
+   "I need it to arrive within three days.",
+   "我需要它三天内到。"
+  ],
+  [
+   "Can I track the parcel online?",
+   "我能在网上查包裹吗？"
+  ],
+  [
+   "Please give me a receipt.",
+   "请给我一张收据。"
+  ]
+ ],
+ "words": [
+  [
+   "parcel",
+   "/ˈpɑːsl/",
+   "包裹"
+  ],
+  [
+   "address",
+   "/əˈdres/",
+   "地址"
+  ],
+  [
+   "postal code",
+   "/ˈpəʊstl kəʊd/",
+   "邮政编码"
+  ],
+  [
+   "delivery",
+   "/dɪˈlɪvəri/",
+   "投递"
+  ],
+  [
+   "postage",
+   "/ˈpəʊstɪdʒ/",
+   "邮费"
+  ],
+  [
+   "express",
+   "/ɪkˈspres/",
+   "快递"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "track",
+   "/træk/",
+   "追踪"
+  ]
+ ]
+}
