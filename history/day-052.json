@@ -1,0 +1,79 @@
+{
+ "day_n": 51,
+ "day": 52,
+ "scene_zh": "感谢与道歉",
+ "round": 1,
+ "focus": "道谢、道歉、回应别人的谢意",
+ "sentences": [
+  [
+   "Thanks a lot for your help.",
+   "非常感谢你的帮助。"
+  ],
+  [
+   "I really appreciate it.",
+   "我真的很感激。"
+  ],
+  [
+   "Sorry, I'm late.",
+   "抱歉我迟到了。"
+  ],
+  [
+   "Sorry, I didn't catch that.",
+   "抱歉我没听清。"
+  ],
+  [
+   "No worries.",
+   "没关系。"
+  ],
+  [
+   "Don't mention it.",
+   "别客气。"
+  ],
+  [
+   "My apologies for the delay.",
+   "抱歉耽搁了。"
+  ]
+ ],
+ "words": [
+  [
+   "appreciate",
+   "/əˈpriːʃieɪt/",
+   "感激"
+  ],
+  [
+   "help",
+   "/help/",
+   "帮助"
+  ],
+  [
+   "late",
+   "/leɪt/",
+   "迟到的"
+  ],
+  [
+   "sorry",
+   "/ˈsɒri/",
+   "抱歉的"
+  ],
+  [
+   "catch",
+   "/kætʃ/",
+   "听清，听懂"
+  ],
+  [
+   "worries",
+   "/ˈwʌriz/",
+   "担心"
+  ],
+  [
+   "delay",
+   "/dɪˈleɪ/",
+   "延误"
+  ],
+  [
+   "apology",
+   "/əˈpɒlədʒi/",
+   "道歉"
+  ]
+ ]
+}
