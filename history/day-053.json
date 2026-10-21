@@ -1,0 +1,79 @@
+{
+ "day_n": 52,
+ "day": 53,
+ "scene_zh": "餐厅点餐",
+ "round": 6,
+ "focus": "点酒水饮料、续杯",
+ "sentences": [
+  [
+   "One iced lemon tea, less ice please.",
+   "一杯冰柠檬茶，少冰，谢谢。"
+  ],
+  [
+   "Can I get a glass of water too?",
+   "再给我一杯水可以吗？"
+  ],
+  [
+   "Could I have a refill, please?",
+   "可以帮我续一杯吗？"
+  ],
+  [
+   "Same again, please.",
+   "再来一样的，谢谢。"
+  ],
+  [
+   "With less sugar this time.",
+   "这次少放点糖。"
+  ],
+  [
+   "Just water for me, thanks.",
+   "我只要水，谢谢。"
+  ],
+  [
+   "No ice for me, please.",
+   "我不要冰，谢谢。"
+  ]
+ ],
+ "words": [
+  [
+   "refill",
+   "/ˈriːfɪl/",
+   "续杯"
+  ],
+  [
+   "iced",
+   "/aɪst/",
+   "加冰的"
+  ],
+  [
+   "less ice",
+   "/les aɪs/",
+   "少冰"
+  ],
+  [
+   "glass",
+   "/ɡlɑːs/",
+   "玻璃杯"
+  ],
+  [
+   "bottle",
+   "/ˈbɒtl/",
+   "瓶"
+  ],
+  [
+   "same again",
+   "/seɪm əˈɡen/",
+   "再来一份一样的"
+  ],
+  [
+   "sugar",
+   "/ˈʃʊɡə/",
+   "糖"
+  ],
+  [
+   "juice",
+   "/dʒuːs/",
+   "果汁"
+  ]
+ ]
+}
