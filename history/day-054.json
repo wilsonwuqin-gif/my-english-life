@@ -1,0 +1,79 @@
+{
+ "day_n": 53,
+ "day": 54,
+ "scene_zh": "酒店入住",
+ "round": 6,
+ "focus": "健身房泳池等设施与开放时间",
+ "sentences": [
+  [
+   "Where is the gym?",
+   "健身房在哪里？"
+  ],
+  [
+   "What floor is the pool on?",
+   "泳池在几楼？"
+  ],
+  [
+   "What time does it open?",
+   "它几点开门？"
+  ],
+  [
+   "What time does it close?",
+   "它几点关门？"
+  ],
+  [
+   "Is the pool open now?",
+   "泳池现在开着吗？"
+  ],
+  [
+   "Do I need a key card to get in?",
+   "进去需要房卡吗？"
+  ],
+  [
+   "Is there a towel in the gym?",
+   "健身房里有毛巾吗？"
+  ]
+ ],
+ "words": [
+  [
+   "gym",
+   "/dʒɪm/",
+   "健身房"
+  ],
+  [
+   "pool",
+   "/puːl/",
+   "泳池"
+  ],
+  [
+   "facility",
+   "/fəˈsɪləti/",
+   "设施"
+  ],
+  [
+   "opening hours",
+   "/ˈoʊpənɪŋ aʊərz/",
+   "开放时间"
+  ],
+  [
+   "locker room",
+   "/ˈlɑːkər ruːm/",
+   "更衣室"
+  ],
+  [
+   "towel",
+   "/ˈtaʊəl/",
+   "毛巾"
+  ],
+  [
+   "key card",
+   "/ˈkiː kɑːrd/",
+   "房卡"
+  ],
+  [
+   "floor",
+   "/flɔːr/",
+   "楼层"
+  ]
+ ]
+}
