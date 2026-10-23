@@ -1,0 +1,79 @@
+{
+ "day_n": 54,
+ "day": 55,
+ "scene_zh": "银行与换汇",
+ "round": 1,
+ "focus": "开户、换汇、取现、问汇率",
+ "sentences": [
+  [
+   "I'd like to open an account.",
+   "我想开一个账户。"
+  ],
+  [
+   "What documents do I need?",
+   "我需要什么证件？"
+  ],
+  [
+   "What's the exchange rate today?",
+   "今天的汇率是多少？"
+  ],
+  [
+   "I want to change some money.",
+   "我想换一些钱。"
+  ],
+  [
+   "Can I withdraw cash here?",
+   "我可以在这里取现吗？"
+  ],
+  [
+   "Is there a service fee?",
+   "有手续费吗？"
+  ],
+  [
+   "Could you give me a receipt, please?",
+   "请给我一张收据好吗？"
+  ]
+ ],
+ "words": [
+  [
+   "open an account",
+   "/ˈoʊpən ən əˈkaʊnt/",
+   "开户"
+  ],
+  [
+   "exchange rate",
+   "/ɪksˈtʃeɪndʒ reɪt/",
+   "汇率"
+  ],
+  [
+   "withdraw",
+   "/wɪðˈdrɔː/",
+   "取现"
+  ],
+  [
+   "deposit",
+   "/dɪˈpɑːzɪt/",
+   "存款"
+  ],
+  [
+   "service fee",
+   "/ˈsɜːrvɪs fiː/",
+   "手续费"
+  ],
+  [
+   "passport",
+   "/ˈpæspɔːrt/",
+   "护照"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "currency",
+   "/ˈkɜːrənsi/",
+   "货币"
+  ]
+ ]
+}
