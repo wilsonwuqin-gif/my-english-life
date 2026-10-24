@@ -1,0 +1,79 @@
+{
+ "day_n": 55,
+ "day": 56,
+ "scene_zh": "日常会议",
+ "round": 6,
+ "focus": "汇报进度、说明卡在哪里",
+ "sentences": [
+  [
+   "We're on schedule so far.",
+   "目前进度正常。"
+  ],
+  [
+   "We've finished about half of it.",
+   "我们完成了大约一半。"
+  ],
+  [
+   "We're a bit behind.",
+   "我们稍微落后了。"
+  ],
+  [
+   "The main problem is the delivery.",
+   "主要问题是到货。"
+  ],
+  [
+   "We're waiting for the supplier.",
+   "我们在等供应商。"
+  ],
+  [
+   "It should be sorted out by Friday.",
+   "周五前应该能解决。"
+  ],
+  [
+   "I'll keep you updated.",
+   "我会随时向你更新。"
+  ]
+ ],
+ "words": [
+  [
+   "progress",
+   "/ˈprəʊɡres/",
+   "进度"
+  ],
+  [
+   "on schedule",
+   "/ɒn ˈʃedjuːl/",
+   "按计划"
+  ],
+  [
+   "behind",
+   "/bɪˈhaɪnd/",
+   "落后"
+  ],
+  [
+   "on hold",
+   "/ɒn həʊld/",
+   "暂停"
+  ],
+  [
+   "blocker",
+   "/ˈblɒkə/",
+   "卡点"
+  ],
+  [
+   "supplier",
+   "/səˈplaɪə/",
+   "供应商"
+  ],
+  [
+   "delivery",
+   "/dɪˈlɪvəri/",
+   "交货"
+  ],
+  [
+   "sort out",
+   "/sɔːt aʊt/",
+   "解决"
+  ]
+ ]
+}
