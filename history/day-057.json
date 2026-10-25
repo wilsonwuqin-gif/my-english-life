@@ -1,0 +1,79 @@
+{
+ "day_n": 56,
+ "day": 57,
+ "scene_zh": "咖啡店点单",
+ "round": 2,
+ "focus": "定制需求：少糖、换奶、加浓",
+ "sentences": [
+  [
+   "Can I get a latte with less sugar, please?",
+   "我要一杯拿铁，少糖，谢谢。"
+  ],
+  [
+   "Could you make it half sweet?",
+   "能做成半糖吗？"
+  ],
+  [
+   "Please swap the milk for skim milk.",
+   "请把牛奶换成脱脂奶。"
+  ],
+  [
+   "Can I change to oat milk instead?",
+   "可以换成燕麦奶吗？"
+  ],
+  [
+   "I'd like it extra strong, please.",
+   "我想要特别浓一点，谢谢。"
+  ],
+  [
+   "Could you add an extra shot?",
+   "能多加一份浓缩吗？"
+  ],
+  [
+   "Go easy on the syrup, please.",
+   "糖浆少放一点，谢谢。"
+  ]
+ ],
+ "words": [
+  [
+   "less sugar",
+   "/les ˈʃʊɡər/",
+   "少糖"
+  ],
+  [
+   "half sweet",
+   "/hæf swift/",
+   "半糖"
+  ],
+  [
+   "swap",
+   "/swɒp/",
+   "替换"
+  ],
+  [
+   "skim milk",
+   "/skɪm mɪlk/",
+   "脱脂奶"
+  ],
+  [
+   "oat milk",
+   "/əʊt mɪlk/",
+   "燕麦奶"
+  ],
+  [
+   "extra shot",
+   "/ˈekstrə ʃɒt/",
+   "多加一份浓缩"
+  ],
+  [
+   "stronger",
+   "/ˈstrɒŋər/",
+   "更浓"
+  ],
+  [
+   "syrup",
+   "/ˈsɪrəp/",
+   "糖浆"
+  ]
+ ]
+}
