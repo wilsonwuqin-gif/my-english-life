@@ -1,0 +1,79 @@
+{
+ "day_n": 58,
+ "day": 59,
+ "scene_zh": "药店买药",
+ "round": 1,
+ "focus": "买常用药、说明症状、问用法用量",
+ "sentences": [
+  [
+   "I need something for a headache.",
+   "我需要治头痛的药。"
+  ],
+  [
+   "Do you have anything for a runny nose?",
+   "你们有治流鼻涕的药吗？"
+  ],
+  [
+   "I have a sore throat and a slight fever.",
+   "我喉咙痛，还有点发烧。"
+  ],
+  [
+   "How many times a day should I take it?",
+   "这个一天吃几次？"
+  ],
+  [
+   "How many pills each time?",
+   "每次吃几片？"
+  ],
+  [
+   "Should I take it before or after meals?",
+   "是饭前吃还是饭后吃？"
+  ],
+  [
+   "Is this medicine OK with food?",
+   "这个药可以跟饭一起吃吗？"
+  ]
+ ],
+ "words": [
+  [
+   "cough",
+   "/kɒf/",
+   "咳嗽"
+  ],
+  [
+   "phlegm",
+   "/flem/",
+   "痰"
+  ],
+  [
+   "sore throat",
+   "/sɔːr θroʊt/",
+   "喉咙痛"
+  ],
+  [
+   "fever",
+   "/ˈfiːvər/",
+   "发烧"
+  ],
+  [
+   "runny nose",
+   "/ˈrʌni noʊz/",
+   "流鼻涕"
+  ],
+  [
+   "dosage",
+   "/ˈdoʊsɪdʒ/",
+   "用量"
+  ],
+  [
+   "tablet",
+   "/ˈtæblət/",
+   "药片"
+  ],
+  [
+   "after meals",
+   "/ˈæftər miːlz/",
+   "饭后"
+  ]
+ ]
+}
