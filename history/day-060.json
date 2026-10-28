@@ -1,0 +1,79 @@
+{
+ "day_n": 59,
+ "day": 60,
+ "scene_zh": "打车与网约车",
+ "round": 2,
+ "focus": "司机走错路、要求改道",
+ "sentences": [
+  [
+   "I think we are going the wrong way.",
+   "我觉得我们走错路了。"
+  ],
+  [
+   "Could you turn around when possible?",
+   "方便的时候能掉头吗？"
+  ],
+  [
+   "This is not the route I usually take.",
+   "这不是我平常走的路。"
+  ],
+  [
+   "Can you take the next left instead?",
+   "能不能改走下一个左转？"
+  ],
+  [
+   "Let's go back to the main road.",
+   "我们回到主路吧。"
+  ],
+  [
+   "I'll guide you from here.",
+   "从这里开始我给你指路。"
+  ],
+  [
+   "Please follow the GPS on my phone.",
+   "请照我手机上的导航走。"
+  ]
+ ],
+ "words": [
+  [
+   "wrong turn",
+   "/rɒŋ tɜːn/",
+   "拐错弯"
+  ],
+  [
+   "turn around",
+   "/tɜːn əˈraʊnd/",
+   "掉头"
+  ],
+  [
+   "junction",
+   "/ˈdʒʌŋkʃn/",
+   "路口"
+  ],
+  [
+   "take the next left",
+   "/teɪk ðə nekst left/",
+   "走下一个左转"
+  ],
+  [
+   "main road",
+   "/meɪn rəʊd/",
+   "主路"
+  ],
+  [
+   "guide you",
+   "/ɡaɪd juː/",
+   "给你指路"
+  ],
+  [
+   "missed the exit",
+   "/mɪst ði ˈeksɪt/",
+   "错过出口"
+  ],
+  [
+   "back on track",
+   "/bæk ɒn træk/",
+   "回到正确路线"
+  ]
+ ]
+}
