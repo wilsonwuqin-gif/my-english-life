@@ -1,0 +1,79 @@
+{
+ "day_n": 60,
+ "day": 61,
+ "scene_zh": "租房看房",
+ "round": 1,
+ "focus": "问租金、看房、问押金与合同期",
+ "sentences": [
+  [
+   "How much is the rent per month?",
+   "每月租金多少？"
+  ],
+  [
+   "Does the rent include utilities?",
+   "租金包含水电费吗？"
+  ],
+  [
+   "How much is the deposit?",
+   "押金是多少？"
+  ],
+  [
+   "What's the minimum lease term?",
+   "最短租期是多久？"
+  ],
+  [
+   "Can I take a look at the room?",
+   "我能看看房间吗？"
+  ],
+  [
+   "When can I move in?",
+   "我什么时候能入住？"
+  ],
+  [
+   "Is the price negotiable?",
+   "价格可以商量吗？"
+  ]
+ ],
+ "words": [
+  [
+   "rent",
+   "/rent/",
+   "租金"
+  ],
+  [
+   "deposit",
+   "/dɪˈpɒzɪt/",
+   "押金"
+  ],
+  [
+   "lease",
+   "/liːs/",
+   "租约"
+  ],
+  [
+   "utilities",
+   "/juːˈtɪlətiz/",
+   "水电杂费"
+  ],
+  [
+   "monthly",
+   "/ˈmʌnθli/",
+   "每月的"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "可租的"
+  ],
+  [
+   "move in",
+   "/muːv ɪn/",
+   "入住"
+  ],
+  [
+   "negotiable",
+   "/nɪˈɡəʊʃiəbl/",
+   "可商量的"
+  ]
+ ]
+}
