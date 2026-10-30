@@ -1,0 +1,79 @@
+{
+ "day_n": 61,
+ "day": 62,
+ "scene_zh": "紧急求助",
+ "round": 1,
+ "focus": "报警、叫救护车、说明位置",
+ "sentences": [
+  [
+   "I need an ambulance, please.",
+   "我需要一辆救护车，麻烦了。"
+  ],
+  [
+   "Someone has collapsed here.",
+   "这里有人晕倒了。"
+  ],
+  [
+   "Please come to Marina Hospital, Block B.",
+   "请到滨海医院B座来。"
+  ],
+  [
+   "I'm on the third floor, near the lift lobby.",
+   "我在三楼，电梯厅附近。"
+  ],
+  [
+   "The exact address is 10 Marina Road.",
+   "详细地址是滨海路10号。"
+  ],
+  [
+   "Please hurry. It's an emergency.",
+   "请快点。这是紧急情况。"
+  ],
+  [
+   "My phone number is 9123 4567.",
+   "我的电话是9123 4567。"
+  ]
+ ],
+ "words": [
+  [
+   "ambulance",
+   "/ˈæmbjələns/",
+   "救护车"
+  ],
+  [
+   "emergency",
+   "/ɪˈmɜːdʒənsi/",
+   "紧急情况"
+  ],
+  [
+   "collapse",
+   "/kəˈlæps/",
+   "晕倒"
+  ],
+  [
+   "location",
+   "/ləʊˈkeɪʃn/",
+   "位置"
+  ],
+  [
+   "lift lobby",
+   "/lɪft ˈlɒbi/",
+   "电梯厅"
+  ],
+  [
+   "exact address",
+   "/ɪɡˈzækt əˈdres/",
+   "详细地址"
+  ],
+  [
+   "stay on the line",
+   "/steɪ ɒn ðə laɪn/",
+   "别挂电话"
+  ],
+  [
+   "hurry",
+   "/ˈhʌri/",
+   "赶快"
+  ]
+ ]
+}
