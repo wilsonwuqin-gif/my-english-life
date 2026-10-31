@@ -1,0 +1,79 @@
+{
+ "day_n": 62,
+ "day": 63,
+ "scene_zh": "餐厅点餐",
+ "round": 7,
+ "focus": "评价菜品、和服务员寒暄",
+ "sentences": [
+  [
+   "This is really tasty.",
+   "这个真好吃。"
+  ],
+  [
+   "The flavour is just right.",
+   "味道刚刚好。"
+  ],
+  [
+   "It's a bit too salty for me.",
+   "对我来说有点太咸了。"
+  ],
+  [
+   "I'm quite full, actually.",
+   "其实我挺饱了。"
+  ],
+  [
+   "That hit the spot.",
+   "吃得真满足。"
+  ],
+  [
+   "You've been very helpful, thanks.",
+   "你帮了很大忙，谢谢。"
+  ],
+  [
+   "We'll definitely come back.",
+   "我们肯定会再来的。"
+  ]
+ ],
+ "words": [
+  [
+   "flavourful",
+   "/ˈfleɪvəfl/",
+   "味道浓郁的"
+  ],
+  [
+   "portion",
+   "/ˈpɔːʃn/",
+   "分量"
+  ],
+  [
+   "generous",
+   "/ˈdʒenərəs/",
+   "量大的，慷慨的"
+  ],
+  [
+   "salty",
+   "/ˈsɔːlti/",
+   "咸的"
+  ],
+  [
+   "tasty",
+   "/ˈteɪsti/",
+   "好吃的"
+  ],
+  [
+   "hit the spot",
+   "/hɪt ðə spɒt/",
+   "正好满足（口腹之欲）"
+  ],
+  [
+   "come back",
+   "/kʌm bæk/",
+   "再来"
+  ],
+  [
+   "helpful",
+   "/ˈhelpfl/",
+   "乐于助人的"
+  ]
+ ]
+}
