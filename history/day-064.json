@@ -1,0 +1,79 @@
+{
+ "day_n": 63,
+ "day": 64,
+ "scene_zh": "酒店入住",
+ "round": 7,
+ "focus": "退房结账、核对账单、要发票",
+ "sentences": [
+  [
+   "I'd like to check out, please.",
+   "我想退房，麻烦了。"
+  ],
+  [
+   "Can I have the bill, please?",
+   "请把账单给我好吗？"
+  ],
+  [
+   "Could you break down this charge?",
+   "能把这笔费用明细列一下吗？"
+  ],
+  [
+   "I didn't use the minibar.",
+   "我没用过迷你吧。"
+  ],
+  [
+   "I think there is a mistake on the bill.",
+   "我觉得账单上有错误。"
+  ],
+  [
+   "Can I have an invoice, please?",
+   "能给我开张发票吗？"
+  ],
+  [
+   "Please make it out to my company.",
+   "请开我们公司的抬头。"
+  ]
+ ],
+ "words": [
+  [
+   "check out",
+   "/tʃek aʊt/",
+   "退房"
+  ],
+  [
+   "bill",
+   "/bɪl/",
+   "账单"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "invoice",
+   "/ˈɪnvɔɪs/",
+   "发票"
+  ],
+  [
+   "charge",
+   "/tʃɑːdʒ/",
+   "费用"
+  ],
+  [
+   "break down",
+   "/breɪk daʊn/",
+   "逐项列出"
+  ],
+  [
+   "make out to",
+   "/meɪk aʊt tuː/",
+   "开给（抬头）"
+  ],
+  [
+   "minibar",
+   "/ˈmɪni bɑː/",
+   "迷你吧"
+  ]
+ ]
+}
