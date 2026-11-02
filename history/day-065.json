@@ -1,0 +1,79 @@
+{
+ "day_n": 64,
+ "day": 65,
+ "scene_zh": "报修与投诉",
+ "round": 1,
+ "focus": "报修、说明故障、约上门时间",
+ "sentences": [
+  [
+   "I need to report a problem.",
+   "我要报修。"
+  ],
+  [
+   "The AC is not working.",
+   "空调坏了。"
+  ],
+  [
+   "It's blowing warm air.",
+   "它吹出来的是热风。"
+  ],
+  [
+   "It's making a loud noise.",
+   "噪音很大。"
+  ],
+  [
+   "Can you send someone to check it?",
+   "能派人来检查一下吗？"
+  ],
+  [
+   "When can your technician come?",
+   "你们技师什么时候能来？"
+  ],
+  [
+   "Tomorrow morning works for me.",
+   "明天早上我方便。"
+  ]
+ ],
+ "words": [
+  [
+   "report",
+   "/rɪˈpɔːt/",
+   "报修，报告"
+  ],
+  [
+   "fault",
+   "/fɔːlt/",
+   "故障"
+  ],
+  [
+   "technician",
+   "/tekˈnɪʃn/",
+   "技师"
+  ],
+  [
+   "check",
+   "/tʃek/",
+   "检查"
+  ],
+  [
+   "fix",
+   "/fɪks/",
+   "修理"
+  ],
+  [
+   "appointment",
+   "/əˈpɔɪntmənt/",
+   "预约"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "有空的"
+  ],
+  [
+   "convenient",
+   "/kənˈviːniənt/",
+   "方便的"
+  ]
+ ]
+}
