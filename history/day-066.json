@@ -1,0 +1,79 @@
+{
+ "day_n": 65,
+ "day": 66,
+ "scene_zh": "日常会议",
+ "round": 7,
+ "focus": "总结结论、分派待办",
+ "sentences": [
+  [
+   "So to sum up, we have two main points.",
+   "总结一下，我们有两个要点。"
+  ],
+  [
+   "Let me confirm what we agreed on.",
+   "我确认一下我们达成的共识。"
+  ],
+  [
+   "That's settled then.",
+   "那就这么定了。"
+  ],
+  [
+   "Who is going to take this task?",
+   "这个任务谁来负责？"
+  ],
+  [
+   "I'll handle it and report back to you.",
+   "我来处理，之后向你汇报。"
+  ],
+  [
+   "Can you finish it by Wednesday?",
+   "你能周三前完成吗？"
+  ],
+  [
+   "Let's do a quick recap before we finish.",
+   "结束前我们快速回顾一下。"
+  ]
+ ],
+ "words": [
+  [
+   "summarize",
+   "/ˈsʌməraɪz/",
+   "总结"
+  ],
+  [
+   "confirm",
+   "/kənˈfɜːrm/",
+   "确认"
+  ],
+  [
+   "settled",
+   "/ˈsetld/",
+   "定了"
+  ],
+  [
+   "assign",
+   "/əˈsaɪn/",
+   "分派"
+  ],
+  [
+   "take on",
+   "/teɪk ɑːn/",
+   "承担"
+  ],
+  [
+   "deadline",
+   "/ˈdedlaɪn/",
+   "截止时间"
+  ],
+  [
+   "follow up",
+   "/ˈfɑːloʊ ʌp/",
+   "跟进"
+  ],
+  [
+   "action item",
+   "/ˈækʃn ˈaɪtəm/",
+   "待办事项"
+  ]
+ ]
+}
