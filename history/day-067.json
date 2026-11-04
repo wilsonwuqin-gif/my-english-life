@@ -1,0 +1,79 @@
+{
+ "day_n": 66,
+ "day": 67,
+ "scene_zh": "保险与理赔",
+ "round": 1,
+ "focus": "问保险覆盖范围、要收据",
+ "sentences": [
+  [
+   "Does my insurance cover this?",
+   "我的保险包括这个吗？"
+  ],
+  [
+   "Is this covered under my plan?",
+   "这个在我的保险范围内吗？"
+  ],
+  [
+   "What's the coverage limit?",
+   "保障额度是多少？"
+  ],
+  [
+   "Can I get a receipt, please?",
+   "能给我一张收据吗？"
+  ],
+  [
+   "I need a receipt for my claim.",
+   "我需要收据来报销。"
+  ],
+  [
+   "Could you print out the receipt?",
+   "你能打印一下收据吗？"
+  ],
+  [
+   "Do I need to pay first?",
+   "我需要先付钱吗？"
+  ]
+ ],
+ "words": [
+  [
+   "insurance",
+   "/ɪnˈʃʊərəns/",
+   "保险"
+  ],
+  [
+   "coverage",
+   "/ˈkʌvərɪdʒ/",
+   "保障范围"
+  ],
+  [
+   "claim",
+   "/kleɪm/",
+   "理赔申请"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "收据"
+  ],
+  [
+   "cover",
+   "/ˈkʌvər/",
+   "涵盖，包括"
+  ],
+  [
+   "outpatient",
+   "/ˈaʊtpeɪʃənt/",
+   "门诊"
+  ],
+  [
+   "limit",
+   "/ˈlɪmɪt/",
+   "上限，限额"
+  ],
+  [
+   "reimburse",
+   "/ˌriːɪmˈbɜːrs/",
+   "报销"
+  ]
+ ]
+}
