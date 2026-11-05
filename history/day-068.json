@@ -1,0 +1,79 @@
+{
+ "day_n": 67,
+ "day": 68,
+ "scene_zh": "同事闲聊与午餐",
+ "round": 2,
+ "focus": "接住玩笑、聊工作以外的兴趣",
+ "sentences": [
+  [
+   "That makes two of us.",
+   "我也是（我跟你一样）。"
+  ],
+  [
+   "Tell me about it.",
+   "可不是嘛（我太懂了）。"
+  ],
+  [
+   "You can say that again.",
+   "说得太对了。"
+  ],
+  [
+   "I'm not really into sports, to be honest.",
+   "老实说，我不太喜欢运动。"
+  ],
+  [
+   "I'm more of a movie person.",
+   "我更喜欢看电影。"
+  ],
+  [
+   "What do you do to unwind?",
+   "你平时怎么放松？"
+  ],
+  [
+   "Let's grab a bite after work sometime.",
+   "改天下班一起去吃点东西吧。"
+  ]
+ ],
+ "words": [
+  [
+   "unwind",
+   "/ˌʌnˈwaɪnd/",
+   "放松"
+  ],
+  [
+   "grab a bite",
+   "/ɡræb ə baɪt/",
+   "随便吃点"
+  ],
+  [
+   "to be honest",
+   "/tə bi ˈɒnɪst/",
+   "老实说"
+  ],
+  [
+   "not really into",
+   "/nɒt ˈrɪəli ˈɪntuː/",
+   "不太喜欢"
+  ],
+  [
+   "hang out",
+   "/hæŋ aʊt/",
+   "一起消磨时间"
+  ],
+  [
+   "chill",
+   "/tʃɪl/",
+   "轻松待着"
+  ],
+  [
+   "catch up",
+   "/kætʃ ʌp/",
+   "叙旧、聊近况"
+  ],
+  [
+   "same here",
+   "/seɪm hɪə/",
+   "我也一样"
+  ]
+ ]
+}
