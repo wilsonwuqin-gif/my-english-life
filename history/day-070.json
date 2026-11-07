@@ -1,0 +1,70 @@
+{
+ "day_n": 69,
+ "day": 70,
+ "scene_zh": "看医生",
+ "round": 2,
+ "focus": "描述疼痛程度与部位、问副作用",
+ "sentences": [
+  [
+   "It's a dull ache, not sharp.",
+   "是钝痛，不是刺痛。"
+  ],
+  [
+   "I'd rate it a seven out of ten.",
+   "我打七分（满分十分）。"
+  ],
+  [
+   "The pain comes and goes.",
+   "疼痛一阵一阵的。"
+  ],
+  [
+   "It hurts when I press here.",
+   "我按这里会疼。"
+  ],
+  [
+   "Does this medicine have any side effects?",
+   "这个药有副作用吗？"
+  ],
+  [
+   "It makes me dizzy and sleepy.",
+   "它让我头晕、犯困。"
+  ]
+ ],
+ "words": [
+  [
+   "dull ache",
+   "/dʌl eɪk/",
+   "钝痛"
+  ],
+  [
+   "numbness",
+   "/ˈnʌmnəs/",
+   "发麻、麻木"
+  ],
+  [
+   "burning",
+   "/ˈbɜːnɪŋ/",
+   "灼烧感"
+  ],
+  [
+   "rate",
+   "/reɪt/",
+   "评级、打分"
+  ],
+  [
+   "side effect",
+   "/saɪd ɪˈfekt/",
+   "副作用"
+  ],
+  [
+   "dizzy",
+   "/ˈdɪzi/",
+   "头晕的"
+  ],
+  [
+   "drowsy",
+   "/ˈdraʊzi/",
+   "昏昏欲睡的"
+  ]
+ ]
+}
