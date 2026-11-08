@@ -1,0 +1,79 @@
+{
+ "day_n": 70,
+ "day": 71,
+ "scene_zh": "通信与网络",
+ "round": 1,
+ "focus": "办卡、选套餐、问流量",
+ "sentences": [
+  [
+   "I want to get a SIM card.",
+   "我想办一张电话卡。"
+  ],
+  [
+   "Do you have a monthly plan?",
+   "你们有月付套餐吗？"
+  ],
+  [
+   "How much data do I get?",
+   "我能有多少流量？"
+  ],
+  [
+   "How much is it per month?",
+   "每个月多少钱？"
+  ],
+  [
+   "Is there a cheaper plan?",
+   "有没有便宜一点的套餐？"
+  ],
+  [
+   "Can I keep my old number?",
+   "我能保留旧号码吗？"
+  ],
+  [
+   "I need more data.",
+   "我需要更多流量。"
+  ]
+ ],
+ "words": [
+  [
+   "SIM card",
+   "/sɪm kɑːd/",
+   "电话卡"
+  ],
+  [
+   "prepaid",
+   "/ˌpriːˈpeɪd/",
+   "预付费的"
+  ],
+  [
+   "monthly plan",
+   "/ˈmʌnθli plæn/",
+   "月付套餐"
+  ],
+  [
+   "data",
+   "/ˈdeɪtə/",
+   "流量"
+  ],
+  [
+   "gigabyte",
+   "/ˈɡɪɡəbaɪt/",
+   "吉字节（G）"
+  ],
+  [
+   "top up",
+   "/tɒp ʌp/",
+   "充值"
+  ],
+  [
+   "contract",
+   "/ˈkɒntrækt/",
+   "合约"
+  ],
+  [
+   "coverage",
+   "/ˈkʌvərɪdʒ/",
+   "信号覆盖"
+  ]
+ ]
+}
