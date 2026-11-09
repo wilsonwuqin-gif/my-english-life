@@ -1,0 +1,79 @@
+{
+ "day_n": 71,
+ "day": 72,
+ "scene_zh": "电话与视频通话",
+ "round": 2,
+ "focus": "信号不好、听不清、请对方重复",
+ "sentences": [
+  [
+   "Sorry, I didn't catch that. Could you say it again?",
+   "抱歉，我没听清。你能再说一遍吗？"
+  ],
+  [
+   "You're breaking up. Can you hear me?",
+   "你那边声音断断续续。你能听到我吗？"
+  ],
+  [
+   "The signal is weak on my side.",
+   "我这边的信号很弱。"
+  ],
+  [
+   "Could you speak a little louder, please?",
+   "你能说大声一点吗？"
+  ],
+  [
+   "Sorry, you're cutting out. Let me call you back.",
+   "抱歉，你的声音断掉了。我打回给你吧。"
+  ],
+  [
+   "I'm losing you. Can you repeat the last part?",
+   "我听不清你了。你能重复最后那部分吗？"
+  ],
+  [
+   "Let me move somewhere with better reception.",
+   "我换个信号好一点的地方。"
+  ]
+ ],
+ "words": [
+  [
+   "signal",
+   "/ˈsɪɡnəl/",
+   "信号"
+  ],
+  [
+   "break up",
+   "/breɪk ʌp/",
+   "声音断断续续"
+  ],
+  [
+   "cut out",
+   "/kʌt aʊt/",
+   "声音中断、断掉"
+  ],
+  [
+   "catch",
+   "/kætʃ/",
+   "听清、听懂"
+  ],
+  [
+   "repeat",
+   "/rɪˈpiːt/",
+   "重复"
+  ],
+  [
+   "reception",
+   "/rɪˈsepʃn/",
+   "信号接收"
+  ],
+  [
+   "choppy",
+   "/ˈtʃɒpi/",
+   "声音卡顿的"
+  ],
+  [
+   "loud",
+   "/laʊd/",
+   "大声的"
+  ]
+ ]
+}
