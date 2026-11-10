@@ -1,0 +1,79 @@
+{
+ "day_n": 72,
+ "day": 73,
+ "scene_zh": "餐厅点餐",
+ "round": 8,
+ "focus": "结账、小费、要发票",
+ "sentences": [
+  [
+   "Could we have the bill, please?",
+   "麻烦买单好吗？"
+  ],
+  [
+   "Can we pay by card?",
+   "可以刷卡吗？"
+  ],
+  [
+   "Could I get a receipt for this?",
+   "能给我一张发票吗？"
+  ],
+  [
+   "Please make it out to the company.",
+   "请开公司抬头。"
+  ],
+  [
+   "Is service charge included?",
+   "服务费包含在里面了吗？"
+  ],
+  [
+   "Just add ten percent for the tip.",
+   "小费就加百分之十吧。"
+  ],
+  [
+   "Keep the change.",
+   "不用找零了。"
+  ]
+ ],
+ "words": [
+  [
+   "bill",
+   "/bɪl/",
+   "账单"
+  ],
+  [
+   "receipt",
+   "/rɪˈsiːt/",
+   "发票、收据"
+  ],
+  [
+   "service charge",
+   "/ˈsɜːvɪs tʃɑːdʒ/",
+   "服务费"
+  ],
+  [
+   "tip",
+   "/tɪp/",
+   "小费"
+  ],
+  [
+   "split the bill",
+   "/splɪt ðə bɪl/",
+   "分开付账"
+  ],
+  [
+   "pay by card",
+   "/peɪ baɪ kɑːd/",
+   "刷卡付款"
+  ],
+  [
+   "invoice",
+   "/ˈɪnvɔɪs/",
+   "正式发票"
+  ],
+  [
+   "change",
+   "/tʃeɪndʒ/",
+   "找零"
+  ]
+ ]
+}
