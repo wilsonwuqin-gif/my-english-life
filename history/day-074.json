@@ -1,0 +1,79 @@
+{
+ "day_n": 73,
+ "day": 74,
+ "scene_zh": "酒店入住",
+ "round": 8,
+ "focus": "委婉投诉而不失礼",
+ "sentences": [
+  [
+   "There might be a small problem with my room.",
+   "我的房间可能有点小问题。"
+  ],
+  [
+   "Would it be possible to change rooms?",
+   "可以换个房间吗？"
+  ],
+  [
+   "Sorry to bother you, but the air conditioning isn't working well.",
+   "不好意思打扰你，空调不太好用。"
+  ],
+  [
+   "I don't want to make a fuss, but the noise is quite loud.",
+   "我不想小题大做，但噪音有点大。"
+  ],
+  [
+   "Could you have someone take a look at it?",
+   "能派人来看一下吗？"
+  ],
+  [
+   "I'd appreciate it if we could sort this out.",
+   "如果能解决这个问题，我会很感激。"
+  ],
+  [
+   "Is there any chance I could move to another room?",
+   "有可能让我换个房间吗？"
+  ]
+ ],
+ "words": [
+  [
+   "bother",
+   "/ˈbɒðər/",
+   "打扰"
+  ],
+  [
+   "issue",
+   "/ˈɪʃuː/",
+   "问题"
+  ],
+  [
+   "make a fuss",
+   "/meɪk ə fʌs/",
+   "小题大做"
+  ],
+  [
+   "take a look",
+   "/teɪk ə lʊk/",
+   "看一看"
+  ],
+  [
+   "appreciate",
+   "/əˈpriːʃieɪt/",
+   "感激"
+  ],
+  [
+   "sort out",
+   "/sɔːrt aʊt/",
+   "解决"
+  ],
+  [
+   "noisy",
+   "/ˈnɔɪzi/",
+   "吵闹的"
+  ],
+  [
+   "move me",
+   "/muːv miː/",
+   "帮我换房"
+  ]
+ ]
+}
