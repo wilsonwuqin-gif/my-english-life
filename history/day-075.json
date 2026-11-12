@@ -1,0 +1,79 @@
+{
+ "day_n": 74,
+ "day": 75,
+ "scene_zh": "服装购物",
+ "round": 2,
+ "focus": "要求调货、修改尺寸、比较款式",
+ "sentences": [
+  [
+   "Can you get me a larger size?",
+   "能帮我拿个大一号的吗？"
+  ],
+  [
+   "Do you have this in a different cut?",
+   "这款有不同版型吗？"
+  ],
+  [
+   "Can you order it from another store?",
+   "能从其他店调货吗？"
+  ],
+  [
+   "How long does the transfer take?",
+   "调货要多久？"
+  ],
+  [
+   "Can you shorten the sleeves for me?",
+   "能帮我把袖子改短吗？"
+  ],
+  [
+   "I'd like to compare these two styles.",
+   "我想比较一下这两个款式。"
+  ],
+  [
+   "Can I pick it up after the alteration?",
+   "改好之后我能来取吗？"
+  ]
+ ],
+ "words": [
+  [
+   "alteration",
+   "/ˌɔːltəˈreɪʃn/",
+   "修改（衣服尺寸）"
+  ],
+  [
+   "transfer",
+   "/trænsˈfɜːr/",
+   "调货"
+  ],
+  [
+   "sleeve",
+   "/sliːv/",
+   "袖子"
+  ],
+  [
+   "hem",
+   "/hem/",
+   "下摆"
+  ],
+  [
+   "fit",
+   "/fɪt/",
+   "合身"
+  ],
+  [
+   "cut",
+   "/kʌt/",
+   "版型（剪裁）"
+  ],
+  [
+   "take in",
+   "/teɪk ɪn/",
+   "改小（收窄）"
+  ],
+  [
+   "pick up",
+   "/pɪk ʌp/",
+   "取货"
+  ]
+ ]
+}
