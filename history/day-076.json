@@ -1,0 +1,79 @@
+{
+ "day_n": 75,
+ "day": 76,
+ "scene_zh": "健身与运动",
+ "round": 2,
+ "focus": "约私教、冻结会籍、退卡",
+ "sentences": [
+  [
+   "I'd like to book a personal trainer session.",
+   "我想约一节私教课。"
+  ],
+  [
+   "Can I change my session to another day?",
+   "我能把课改到另一天吗？"
+  ],
+  [
+   "I want to freeze my membership for two months.",
+   "我想把会籍冻结两个月。"
+  ],
+  [
+   "How much is the freeze fee?",
+   "冻结费是多少？"
+  ],
+  [
+   "I'd like to cancel my membership.",
+   "我想退掉我的会籍。"
+  ],
+  [
+   "What's the notice period for cancellation?",
+   "退会需要提前多久通知？"
+  ],
+  [
+   "Can I get a refund for the remaining months?",
+   "剩下的月份能退款吗？"
+  ]
+ ],
+ "words": [
+  [
+   "personal trainer",
+   "/ˈpɜːsənl ˈtreɪnər/",
+   "私人教练"
+  ],
+  [
+   "session",
+   "/ˈseʃn/",
+   "一节课"
+  ],
+  [
+   "freeze",
+   "/friːz/",
+   "冻结"
+  ],
+  [
+   "membership",
+   "/ˈmembəʃɪp/",
+   "会籍"
+  ],
+  [
+   "cancel",
+   "/ˈkænsl/",
+   "退订、取消"
+  ],
+  [
+   "notice period",
+   "/ˈnəʊtɪs ˈpɪəriəd/",
+   "提前通知期"
+  ],
+  [
+   "refund",
+   "/ˈriːfʌnd/",
+   "退款"
+  ],
+  [
+   "fill in a form",
+   "/fɪl ɪn ə fɔːm/",
+   "填表"
+  ]
+ ]
+}
