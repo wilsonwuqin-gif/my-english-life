@@ -1,0 +1,79 @@
+{
+ "day_n": 76,
+ "day": 77,
+ "scene_zh": "日常会议",
+ "round": 8,
+ "focus": "主持会议、控制时间",
+ "sentences": [
+  [
+   "Let's get started.",
+   "我们开始吧。"
+  ],
+  [
+   "We have twenty minutes, so let's be quick.",
+   "我们只有二十分钟，所以抓紧点。"
+  ],
+  [
+   "Let's stick to the agenda.",
+   "我们按议程来。"
+  ],
+  [
+   "We're running short on time.",
+   "我们时间不多了。"
+  ],
+  [
+   "Let's move on to the next point.",
+   "我们进入下一点。"
+  ],
+  [
+   "Can we keep this brief?",
+   "我们能简短点吗？"
+  ],
+  [
+   "Let's wrap up here.",
+   "我们到这里收尾吧。"
+  ]
+ ],
+ "words": [
+  [
+   "agenda",
+   "/əˈdʒendə/",
+   "议程"
+  ],
+  [
+   "time limit",
+   "/taɪm ˈlɪmɪt/",
+   "时间限制"
+  ],
+  [
+   "on track",
+   "/ɒn træk/",
+   "按计划进行"
+  ],
+  [
+   "run over",
+   "/rʌn ˈəʊvə/",
+   "超时"
+  ],
+  [
+   "move on",
+   "/muːv ɒn/",
+   "进入下一项"
+  ],
+  [
+   "offline",
+   "/ˌɒfˈlaɪn/",
+   "会后私下"
+  ],
+  [
+   "wrap up",
+   "/ræp ʌp/",
+   "收尾"
+  ],
+  [
+   "brief",
+   "/briːf/",
+   "简短的"
+  ]
+ ]
+}
