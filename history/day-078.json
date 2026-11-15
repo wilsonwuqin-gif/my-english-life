@@ -1,0 +1,79 @@
+{
+ "day_n": 77,
+ "day": 78,
+ "scene_zh": "孩子与学校",
+ "round": 2,
+ "focus": "家长会沟通、说明孩子的问题",
+ "sentences": [
+  [
+   "I'd like to talk about my son's progress.",
+   "我想聊聊我儿子的学习情况。"
+  ],
+  [
+   "Is there anything I should know about his behavior?",
+   "关于他的表现，有什么我需要了解的吗？"
+  ],
+  [
+   "He seems to have trouble focusing in class.",
+   "他上课好像很难集中注意力。"
+  ],
+  [
+   "Could you tell me more about that?",
+   "您能多说一点吗？"
+  ],
+  [
+   "What can we do to help him improve?",
+   "我们能做点什么帮他进步？"
+  ],
+  [
+   "I'll work on that with him at home.",
+   "我会在家和他一起努力。"
+  ],
+  [
+   "Please let me know if anything comes up.",
+   "如果有任何情况，请告诉我。"
+  ]
+ ],
+ "words": [
+  [
+   "progress",
+   "/ˈproʊɡres/",
+   "进步，进展"
+  ],
+  [
+   "behavior",
+   "/bɪˈheɪvjər/",
+   "行为，表现"
+  ],
+  [
+   "focus",
+   "/ˈfoʊkəs/",
+   "集中注意力"
+  ],
+  [
+   "struggle",
+   "/ˈstrʌɡl/",
+   "吃力，挣扎"
+  ],
+  [
+   "improve",
+   "/ɪmˈpruːv/",
+   "提高，改善"
+  ],
+  [
+   "concern",
+   "/kənˈsɜːrn/",
+   "担忧，顾虑"
+  ],
+  [
+   "support",
+   "/səˈpɔːrt/",
+   "支持"
+  ],
+  [
+   "follow up",
+   "/ˈfɑːloʊ ʌp/",
+   "跟进"
+  ]
+ ]
+}
