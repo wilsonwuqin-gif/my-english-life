@@ -1,0 +1,79 @@
+{
+ "day_n": 78,
+ "day": 79,
+ "scene_zh": "机场值机与安检",
+ "round": 8,
+ "focus": "登机广播没听懂时怎么问",
+ "sentences": [
+  [
+   "Sorry, I didn't catch that.",
+   "对不起，我没听清。"
+  ],
+  [
+   "Could you say that again, please?",
+   "能请您再说一遍吗？"
+  ],
+  [
+   "What did they just announce?",
+   "他们刚才广播说了什么？"
+  ],
+  [
+   "Was that announcement about my flight?",
+   "刚才那个广播是关于我的航班吗？"
+  ],
+  [
+   "Sorry, I missed the announcement. What should I do?",
+   "不好意思，我错过广播了。我该怎么办？"
+  ],
+  [
+   "Could you speak a little slower, please?",
+   "您能说慢一点吗？"
+  ],
+  [
+   "Did they say the gate number?",
+   "他们说登机口号码了吗？"
+  ]
+ ],
+ "words": [
+  [
+   "announcement",
+   "/əˈnaʊnsmənt/",
+   "广播通知"
+  ],
+  [
+   "catch",
+   "/kætʃ/",
+   "听清，听懂"
+  ],
+  [
+   "gate",
+   "/ɡeɪt/",
+   "登机口"
+  ],
+  [
+   "boarding",
+   "/ˈbɔːrdɪŋ/",
+   "登机"
+  ],
+  [
+   "delay",
+   "/dɪˈleɪ/",
+   "延误"
+  ],
+  [
+   "final call",
+   "/ˈfaɪnl kɔːl/",
+   "最后广播"
+  ],
+  [
+   "repeat",
+   "/rɪˈpiːt/",
+   "重复"
+  ],
+  [
+   "departure",
+   "/dɪˈpɑːrtʃər/",
+   "出发"
+  ]
+ ]
+}
