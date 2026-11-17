@@ -1,0 +1,79 @@
+{
+ "day_n": 79,
+ "day": 80,
+ "scene_zh": "初次见面",
+ "round": 2,
+ "focus": "介绍同事给对方、串联两个陌生人",
+ "sentences": [
+  [
+   "Let me introduce you to my colleague.",
+   "让我把你介绍给我的同事。"
+  ],
+  [
+   "This is Daniel, our site supervisor.",
+   "这是丹尼尔，我们的现场主管。"
+  ],
+  [
+   "Have you two met before?",
+   "你们两位之前见过吗？"
+  ],
+  [
+   "Daniel, this is Sarah from the design team.",
+   "丹尼尔，这是设计团队的莎拉。"
+  ],
+  [
+   "I'd like you to meet my colleague.",
+   "我想让你认识一下我的同事。"
+  ],
+  [
+   "We work on the same project.",
+   "我们在同一个项目上工作。"
+  ],
+  [
+   "I'll let you two talk.",
+   "我让你们两位聊。"
+  ]
+ ],
+ "words": [
+  [
+   "introduce",
+   "/ˌɪntrəˈdjuːs/",
+   "介绍"
+  ],
+  [
+   "colleague",
+   "/ˈkɒliːɡ/",
+   "同事"
+  ],
+  [
+   "site supervisor",
+   "/saɪt ˈsuːpəvaɪzə/",
+   "现场主管"
+  ],
+  [
+   "design team",
+   "/dɪˈzaɪn tiːm/",
+   "设计团队"
+  ],
+  [
+   "meet",
+   "/miːt/",
+   "见面"
+  ],
+  [
+   "same project",
+   "/seɪm ˈprɒdʒekt/",
+   "同一个项目"
+  ],
+  [
+   "by the way",
+   "/baɪ ðə weɪ/",
+   "顺便说一下"
+  ],
+  [
+   "go ahead",
+   "/ɡəʊ əˈhed/",
+   "请继续、你先"
+  ]
+ ]
+}
