@@ -1,0 +1,79 @@
+{
+ "day_n": 80,
+ "day": 81,
+ "scene_zh": "结账与小费",
+ "round": 2,
+ "focus": "账单有误、AA 分账、找零",
+ "sentences": [
+  [
+   "This doesn't look right on the bill.",
+   "账单上这一项看起来不对。"
+  ],
+  [
+   "I think there's a mistake here.",
+   "我觉得这里有个错误。"
+  ],
+  [
+   "We didn't order this dish.",
+   "我们没点这道菜。"
+  ],
+  [
+   "Could you check this charge for me?",
+   "能帮我查一下这笔收费吗？"
+  ],
+  [
+   "Let's just split it fifty-fifty.",
+   "我们就一人一半吧。"
+  ],
+  [
+   "Can I pay my share by card?",
+   "我这份能刷卡吗？"
+  ],
+  [
+   "Could you break this into smaller notes?",
+   "能帮我把这个破成小面额的吗？"
+  ]
+ ],
+ "words": [
+  [
+   "overcharge",
+   "/ˌoʊvərˈtʃɑːrdʒ/",
+   "多收费"
+  ],
+  [
+   "split the bill",
+   "/splɪt ðə bɪl/",
+   "分账"
+  ],
+  [
+   "fifty-fifty",
+   "/ˌfɪfti ˈfɪfti/",
+   "平分"
+  ],
+  [
+   "go Dutch",
+   "/ɡoʊ dʌtʃ/",
+   "各付各的"
+  ],
+  [
+   "change",
+   "/tʃeɪndʒ/",
+   "零钱"
+  ],
+  [
+   "break a note",
+   "/breɪk ə noʊt/",
+   "破开纸币"
+  ],
+  [
+   "item",
+   "/ˈaɪtəm/",
+   "项目、条目"
+  ],
+  [
+   "share",
+   "/ʃer/",
+   "份额、分摊的部分"
+  ]
+ ]
+}
