@@ -1,0 +1,79 @@
+{
+ "day_n": 81,
+ "day": 82,
+ "scene_zh": "请假与调休",
+ "round": 2,
+ "focus": "临时请假、延长假期、远程办公",
+ "sentences": [
+  [
+   "I need to take urgent leave. My father had an accident.",
+   "我需要紧急请假。我父亲出事了。"
+  ],
+  [
+   "Can I take tomorrow off and work from home for the rest of the week?",
+   "我明天能请假，然后这周剩下的时间居家办公吗？"
+  ],
+  [
+   "I may need to extend my leave by two more days.",
+   "我可能需要把假期再延长两天。"
+  ],
+  [
+   "I can still join the site meeting online from my hometown.",
+   "我在老家也能线上参加现场会议。"
+  ],
+  [
+   "Could we move my leave dates? I'll come back earlier.",
+   "能不能改一下我的休假日期？我提前回来。"
+  ],
+  [
+   "I'll keep my phone on and reply to messages after hours.",
+   "我会保持手机开机，下班后也会回消息。"
+  ],
+  [
+   "Let me confirm the dates with you by tonight.",
+   "我今晚之前跟你确认日期。"
+  ]
+ ],
+ "words": [
+  [
+   "urgent leave",
+   "/ˈɜːdʒənt liːv/",
+   "紧急请假"
+  ],
+  [
+   "extend",
+   "/ɪkˈstend/",
+   "延长"
+  ],
+  [
+   "work from home",
+   "/wɜːk frəm həʊm/",
+   "居家办公"
+  ],
+  [
+   "compassionate leave",
+   "/kəmˈpæʃənət liːv/",
+   "事假（家人原因）"
+  ],
+  [
+   "cover for someone",
+   "/ˈkʌvə fə ˈsʌmwʌn/",
+   "替某人顶班"
+  ],
+  [
+   "site meeting",
+   "/saɪt ˈmiːtɪŋ/",
+   "现场会议"
+  ],
+  [
+   "after hours",
+   "/ˈɑːftə ˈaʊəz/",
+   "下班后"
+  ],
+  [
+   "confirm",
+   "/kənˈfɜːm/",
+   "确认"
+  ]
+ ]
+}
