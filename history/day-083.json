@@ -1,0 +1,79 @@
+{
+ "day_n": 82,
+ "day": 83,
+ "scene_zh": "餐厅点餐",
+ "round": 9,
+ "focus": "带人吃饭、照顾同伴口味",
+ "sentences": [
+  [
+   "Do you have any food allergies?",
+   "你有什么食物过敏吗？"
+  ],
+  [
+   "Is there anything you don't eat?",
+   "你有什么忌口吗？"
+  ],
+  [
+   "Let's order a few dishes to share.",
+   "我们点几个菜一起分吧。"
+  ],
+  [
+   "This one is not too spicy, I think.",
+   "这个我觉得不太辣。"
+  ],
+  [
+   "Would you like to try this?",
+   "你要不要试试这个？"
+  ],
+  [
+   "Let's get one mild and one spicy.",
+   "我们一个微辣一个辣的吧。"
+  ],
+  [
+   "I'll order for both of us.",
+   "我来帮我们俩点。"
+  ]
+ ],
+ "words": [
+  [
+   "allergy",
+   "/ˈælədʒi/",
+   "过敏"
+  ],
+  [
+   "mild",
+   "/maɪld/",
+   "微辣的、口味淡的"
+  ],
+  [
+   "spicy",
+   "/ˈspaɪsi/",
+   "辣的"
+  ],
+  [
+   "share",
+   "/ʃeə/",
+   "分着吃"
+  ],
+  [
+   "recommend",
+   "/ˌrekəˈmend/",
+   "推荐"
+  ],
+  [
+   "prefer",
+   "/prɪˈfɜː/",
+   "更喜欢"
+  ],
+  [
+   "portion",
+   "/ˈpɔːʃn/",
+   "份量"
+  ],
+  [
+   "vegan",
+   "/ˈviːɡən/",
+   "纯素食的"
+  ]
+ ]
+}
