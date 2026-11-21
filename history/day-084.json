@@ -1,0 +1,79 @@
+{
+ "day_n": 83,
+ "day": 84,
+ "scene_zh": "酒店入住",
+ "round": 9,
+ "focus": "会员积分、升级房型",
+ "sentences": [
+  [
+   "I'm a member of your rewards program.",
+   "我是你们会员计划的会员。"
+  ],
+  [
+   "Can I use my points for an upgrade?",
+   "我可以用积分升级吗？"
+  ],
+  [
+   "How many points do I need for a better room?",
+   "升到更好的房间需要多少积分？"
+  ],
+  [
+   "Could you check if an upgrade is available?",
+   "您能查一下有没有升级名额吗？"
+  ],
+  [
+   "I'd like to pay with points, please.",
+   "我想用积分支付。"
+  ],
+  [
+   "Does this stay count toward my points?",
+   "这次入住能算积分吗？"
+  ],
+  [
+   "Please add the points to my account.",
+   "请把积分记到我账户上。"
+  ]
+ ],
+ "words": [
+  [
+   "membership",
+   "/ˈmembəʃɪp/",
+   "会员身份"
+  ],
+  [
+   "rewards program",
+   "/rɪˈwɔːdz ˈprəʊɡræm/",
+   "积分奖励计划"
+  ],
+  [
+   "points",
+   "/pɔɪnts/",
+   "积分"
+  ],
+  [
+   "upgrade",
+   "/ˈʌpɡreɪd/",
+   "升级（房型）"
+  ],
+  [
+   "redeem",
+   "/rɪˈdiːm/",
+   "兑换"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "有空余的"
+  ],
+  [
+   "account",
+   "/əˈkaʊnt/",
+   "账户"
+  ],
+  [
+   "stay",
+   "/steɪ/",
+   "入住（一晚或一段）"
+  ]
+ ]
+}
