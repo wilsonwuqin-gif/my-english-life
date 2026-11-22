@@ -1,0 +1,79 @@
+{
+ "day_n": 84,
+ "day": 85,
+ "scene_zh": "团建与欢送",
+ "round": 2,
+ "focus": "组织活动、征询意见、协调时间",
+ "sentences": [
+  [
+   "Are you in?",
+   "你参加吗？"
+  ],
+  [
+   "Let me check my schedule.",
+   "让我看看我的安排。"
+  ],
+  [
+   "Does Friday work for you?",
+   "周五你方便吗？"
+  ],
+  [
+   "I'll confirm by tomorrow.",
+   "我明天前确认。"
+  ],
+  [
+   "What time suits everyone?",
+   "什么时间适合大家？"
+  ],
+  [
+   "Count me in.",
+   "算我一个。"
+  ],
+  [
+   "Can we push it to next week?",
+   "能推到下周吗？"
+  ]
+ ],
+ "words": [
+  [
+   "outing",
+   "/ˈaʊtɪŋ/",
+   "团建活动"
+  ],
+  [
+   "farewell",
+   "/ˌfeəˈwel/",
+   "欢送"
+  ],
+  [
+   "schedule",
+   "/ˈʃedjuːl/",
+   "日程安排"
+  ],
+  [
+   "confirm",
+   "/kənˈfɜːm/",
+   "确认"
+  ],
+  [
+   "available",
+   "/əˈveɪləbl/",
+   "有空的"
+  ],
+  [
+   "arrange",
+   "/əˈreɪndʒ/",
+   "安排"
+  ],
+  [
+   "venue",
+   "/ˈvenjuː/",
+   "场地"
+  ],
+  [
+   "headcount",
+   "/ˈhedkaʊnt/",
+   "人数"
+  ]
+ ]
+}
