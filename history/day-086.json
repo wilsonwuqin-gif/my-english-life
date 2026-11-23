@@ -1,0 +1,79 @@
+{
+ "day_n": 85,
+ "day": 86,
+ "scene_zh": "饮食禁忌与过敏",
+ "round": 2,
+ "focus": "详细确认成分、要求厨房处理",
+ "sentences": [
+  [
+   "Could you list all the ingredients for me?",
+   "你能把所有成分列给我吗？"
+  ],
+  [
+   "Does the sauce contain any sesame?",
+   "这个酱汁含芝麻吗？"
+  ],
+  [
+   "I need to avoid anything cooked with alcohol.",
+   "我需要避开任何用酒烹调的菜。"
+  ],
+  [
+   "Can the kitchen use a clean pan for my dish?",
+   "厨房能给我的菜用一口干净的锅吗？"
+  ],
+  [
+   "Please make sure there's no cross-contact with shellfish.",
+   "请确保不要和贝类交叉接触。"
+  ],
+  [
+   "Is the stock made from chicken or vegetables?",
+   "高汤是用鸡熬的还是蔬菜熬的？"
+  ],
+  [
+   "Could you double-check the label on that package?",
+   "你能再核对一下那个包装上的标签吗？"
+  ]
+ ],
+ "words": [
+  [
+   "ingredient",
+   "/ɪnˈɡriːdiənt/",
+   "成分，配料"
+  ],
+  [
+   "trace",
+   "/treɪs/",
+   "微量，痕迹"
+  ],
+  [
+   "cross-contact",
+   "/krɒs ˈkɒntækt/",
+   "交叉接触"
+  ],
+  [
+   "stock",
+   "/stɒk/",
+   "高汤，原汤"
+  ],
+  [
+   "sesame",
+   "/ˈsesəmi/",
+   "芝麻"
+  ],
+  [
+   "swap out",
+   "/swɒp aʊt/",
+   "替换掉"
+  ],
+  [
+   "label",
+   "/ˈleɪbl/",
+   "标签"
+  ],
+  [
+   "contaminate",
+   "/kənˈtæmɪneɪt/",
+   "污染，沾染"
+  ]
+ ]
+}
