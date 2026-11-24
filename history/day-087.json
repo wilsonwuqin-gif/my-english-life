@@ -1,0 +1,79 @@
+{
+ "day_n": 86,
+ "day": 87,
+ "scene_zh": "日常会议",
+ "round": 9,
+ "focus": "把跑题的讨论拉回来",
+ "sentences": [
+  [
+   "Let's park that for now.",
+   "这个我们先放一放。"
+  ],
+  [
+   "Sorry to jump in, but we're going off topic.",
+   "抱歉插一句，我们跑题了。"
+  ],
+  [
+   "Can we come back to that later?",
+   "那个能待会儿再回来说吗？"
+  ],
+  [
+   "Let's bring it back to the main point.",
+   "我们拉回到重点上。"
+  ],
+  [
+   "That's a separate issue — let's note it and move on.",
+   "那是另一个问题，记下来，先往下走。"
+  ],
+  [
+   "Where were we again?",
+   "我们刚才说到哪了？"
+  ],
+  [
+   "Let's hold that thought and finish this first.",
+   "这个先记着，先把这个说完。"
+  ]
+ ],
+ "words": [
+  [
+   "park",
+   "/pɑːk/",
+   "暂时搁置"
+  ],
+  [
+   "off topic",
+   "/ˌɒf ˈtɒpɪk/",
+   "跑题"
+  ],
+  [
+   "jump in",
+   "/dʒʌmp ɪn/",
+   "插话"
+  ],
+  [
+   "come back to",
+   "/kʌm bæk tuː/",
+   "回到（某话题）"
+  ],
+  [
+   "side issue",
+   "/saɪd ˈɪʃuː/",
+   "次要问题"
+  ],
+  [
+   "get back on track",
+   "/ɡet bæk ɒn træk/",
+   "回到正轨"
+  ],
+  [
+   "hold that thought",
+   "/həʊld ðæt θɔːt/",
+   "先记着这个想法"
+  ],
+  [
+   "digress",
+   "/daɪˈɡres/",
+   "离题"
+  ]
+ ]
+}
