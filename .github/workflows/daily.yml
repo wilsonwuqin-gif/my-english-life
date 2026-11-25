@@ -1,9 +1,7 @@
 name: daily-life-english
 
 on:
-  schedule:
-    # GitHub Actions 用 UTC 时间。UTC 00:00 = 北京时间当天 08:00
-    - cron: '0 0 * * *'
+  # 2026-11-25 停用每日定时推送（改为系统课程学习）；需要恢复时把 schedule 加回来
   workflow_dispatch:
     inputs:
       force_day:
