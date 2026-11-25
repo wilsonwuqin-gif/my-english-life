@@ -1,0 +1,79 @@
+{
+ "day_n": 87,
+ "day": 88,
+ "scene_zh": "闲聊话题",
+ "round": 3,
+ "focus": "识别何时该结束闲聊、避开敏感话题",
+ "sentences": [
+  [
+   "Anyway, I'd better let you get back to work.",
+   "总之，我不打扰你工作了。"
+  ],
+  [
+   "I should probably get going.",
+   "我可能得走了。"
+  ],
+  [
+   "Let's catch up again soon.",
+   "我们改天再聊。"
+  ],
+  [
+   "I'll let you get on with it.",
+   "我就不耽误你了。"
+  ],
+  [
+   "That's a bit outside my lane, to be honest.",
+   "说实话，那不太是我该谈的。"
+  ],
+  [
+   "I'd rather not get into that, if you don't mind.",
+   "如果你不介意，这个我就不聊了。"
+  ],
+  [
+   "Good talking to you. Have a good one.",
+   "聊得挺好。祝你愉快。"
+  ]
+ ],
+ "words": [
+  [
+   "anyway",
+   "/ˈeniweɪ/",
+   "总之，不管怎样（转换或结束话题）"
+  ],
+  [
+   "get going",
+   "/ɡet ˈɡoʊɪŋ/",
+   "动身，该走了"
+  ],
+  [
+   "catch up",
+   "/kætʃ ʌp/",
+   "（改天）再聊，叙旧"
+  ],
+  [
+   "get back to",
+   "/ɡet bæk tu/",
+   "回到（工作、正事）"
+  ],
+  [
+   "outside my lane",
+   "/ˌaʊtˈsaɪd maɪ leɪn/",
+   "不归我管，不该我谈"
+  ],
+  [
+   "sensitive",
+   "/ˈsensətɪv/",
+   "敏感的"
+  ],
+  [
+   "step away",
+   "/step əˈweɪ/",
+   "走开，抽身"
+  ],
+  [
+   "wrap up",
+   "/ræp ʌp/",
+   "收尾，结束"
+  ]
+ ]
+}
